@@ -42,3 +42,12 @@ This is a research project — analysis lives in Jupyter notebooks, not applicat
 | `ACT_projekt_nieparam.sas` | SAS equivalent | `PROC LIFETEST` for life tables, survival/hazard plots |
 
 All analyses handle **right-censored** data. Event indicators and duration columns differ by dataset — check the data-loading cells at the top of each notebook before modifying model calls.
+
+## graphify
+
+This project has a graphify knowledge graph at graphify-out/.
+
+Rules:
+- Before answering architecture or codebase questions, read graphify-out/GRAPH_REPORT.md for god nodes and community structure
+- If graphify-out/wiki/index.md exists, navigate it instead of reading raw files
+- After modifying code files in this session, run `graphify update .` to keep the graph current (AST-only, no API cost)

@@ -1,0 +1,10 @@
+CLAUDE.md
+notatak.txt
+Prezentacje\modele_nieparametryczne.pdf
+Prezentacje\modele_parametryczne.pdf
+Prezentacje\modele_semiparametryczne.pdf
+Prezentacje\wprowadzenie.pdf
+Ready_models\hf_aft_aic_comparison.png
+Ready_models\hf_aft_hazard_profiles.png
+Ready_models\hf_aft_survival_profiles.png
+Ready_models\hf_censoring.png

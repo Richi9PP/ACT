@@ -1,0 +1,276 @@
+{
+  "nodes": [
+    {
+      "id": "hf_aft_aic_comparison_chart",
+      "label": "HF AFT Model AIC Comparison Chart",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_aic_comparison_weibull_aft",
+      "label": "Weibull AFT Model (Heart Failure)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_aic_comparison_loglogistic_aft",
+      "label": "Log-Logistic AFT Model (Heart Failure)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_aic_comparison_lognormal_aft",
+      "label": "Log-Normal AFT Model (Heart Failure)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_aic_comparison_aic_criterion",
+      "label": "AIC Model Selection Criterion",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_aic_comparison_heart_failure_dataset",
+      "label": "Heart Failure Clinical Records Dataset",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_aic_comparison_aft_parametric_analysis",
+      "label": "Parametric AFT Survival Analysis",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "hf_aft_aic_comparison_chart",
+      "target": "hf_aft_aic_comparison_weibull_aft",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_chart",
+      "target": "hf_aft_aic_comparison_loglogistic_aft",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_chart",
+      "target": "hf_aft_aic_comparison_lognormal_aft",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_chart",
+      "target": "hf_aft_aic_comparison_aic_criterion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_chart",
+      "target": "hf_aft_aic_comparison_heart_failure_dataset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_chart",
+      "target": "hf_aft_aic_comparison_aft_parametric_analysis",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_weibull_aft",
+      "target": "hf_aft_aic_comparison_aic_criterion",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_loglogistic_aft",
+      "target": "hf_aft_aic_comparison_aic_criterion",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_lognormal_aft",
+      "target": "hf_aft_aic_comparison_aic_criterion",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_weibull_aft",
+      "target": "hf_aft_aic_comparison_loglogistic_aft",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_weibull_aft",
+      "target": "hf_aft_aic_comparison_lognormal_aft",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_loglogistic_aft",
+      "target": "hf_aft_aic_comparison_lognormal_aft",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_weibull_aft",
+      "target": "hf_aft_aic_comparison_heart_failure_dataset",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "hf_aft_aic_comparison_loglogistic_aft",
+      "target": "hf_aft_aic_comparison_heart_failure_dataset",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "hf_aft_aic_comparison_lognormal_aft",
+      "target": "hf_aft_aic_comparison_heart_failure_dataset",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "hf_aft_aic_comparison_weibull_aft",
+      "target": "hf_aft_aic_comparison_aft_parametric_analysis",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_loglogistic_aft",
+      "target": "hf_aft_aic_comparison_aft_parametric_analysis",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_lognormal_aft",
+      "target": "hf_aft_aic_comparison_aft_parametric_analysis",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_aic_comparison_weibull_aft",
+      "target": "hf_aft_aic_comparison_loglogistic_aft",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Ready_models/hf_aft_aic_comparison.png",
+      "source_location": null,
+      "weight": 0.85
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

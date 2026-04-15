@@ -1,0 +1,196 @@
+{
+  "nodes": [
+    {
+      "id": "hf_censoring_image",
+      "label": "HF Censoring Analysis Chart",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_censoring_dataset",
+      "label": "Heart Failure Clinical Records Dataset",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_censoring_censored_group",
+      "label": "Censored Observations (67.9%)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_censoring_event_group",
+      "label": "Death Events / Zgon (32.1%)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_censoring_observation_time_distribution",
+      "label": "Observation Time Distribution by Status (Histogram)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_censoring_event_proportion_piechart",
+      "label": "Event vs Censoring Proportion Pie Chart",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_right_censoring",
+      "label": "Right Censoring (Survival Analysis Concept)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "hf_censoring_image",
+      "target": "hf_censoring_dataset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_censoring_image",
+      "target": "hf_censoring_observation_time_distribution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_censoring_image",
+      "target": "hf_censoring_event_proportion_piechart",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_censoring_observation_time_distribution",
+      "target": "hf_censoring_censored_group",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_censoring_observation_time_distribution",
+      "target": "hf_censoring_event_group",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_censoring_event_proportion_piechart",
+      "target": "hf_censoring_censored_group",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_censoring_event_proportion_piechart",
+      "target": "hf_censoring_event_group",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_censoring_censored_group",
+      "target": "concept_right_censoring",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "hf_censoring_dataset",
+      "target": "concept_right_censoring",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "hf_censoring_observation_time_distribution",
+      "target": "concept_right_censoring",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "hf_censoring_censored_group",
+      "target": "hf_censoring_event_group",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_censoring.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

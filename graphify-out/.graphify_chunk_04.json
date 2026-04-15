@@ -1,0 +1,279 @@
+{
+  "nodes": [
+    {
+      "id": "hf_aft_survival_profiles_image",
+      "label": "HF AFT Survival Profiles Plot",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_lognormal_aft_model",
+      "label": "Log-Normal AFT Model",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_survival_function",
+      "label": "Survival Function S(t)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_patient_a",
+      "label": "Patient A – Low Risk Profile",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_patient_b",
+      "label": "Patient B – Medium Risk Profile",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_patient_c",
+      "label": "Patient C – High Risk Profile",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_patient_d",
+      "label": "Patient D – High Risk Profile",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_heart_failure_dataset",
+      "label": "Heart Failure Clinical Records Dataset",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_risk_stratification",
+      "label": "Risk Stratification (Low / Medium / High)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hf_aft_survival_profiles_time_days",
+      "label": "Follow-up Time (Days, 0–280)",
+      "file_type": "image",
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_lognormal_aft_model",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_survival_function",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_heart_failure_dataset",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_patient_a",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_patient_b",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_patient_c",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_patient_d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_risk_stratification",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_image",
+      "target": "hf_aft_survival_profiles_time_days",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_patient_a",
+      "target": "hf_aft_survival_profiles_risk_stratification",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_patient_b",
+      "target": "hf_aft_survival_profiles_risk_stratification",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_patient_c",
+      "target": "hf_aft_survival_profiles_risk_stratification",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_patient_d",
+      "target": "hf_aft_survival_profiles_risk_stratification",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_lognormal_aft_model",
+      "target": "hf_aft_survival_profiles_survival_function",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hf_aft_survival_profiles_patient_a",
+      "target": "hf_aft_survival_profiles_patient_c",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "hf_aft_survival_profiles_patient_c",
+      "target": "hf_aft_survival_profiles_patient_d",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Ready_models/hf_aft_survival_profiles.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

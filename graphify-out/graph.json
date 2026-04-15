@@ -53,9 +53,9 @@
       "file_type": "rationale",
       "source_file": "Ready_models\\gen_notebooks.py",
       "source_location": "L1",
-      "id": "gen_notebooks_rationale_1",
       "community": 12,
-      "norm_label": "generator trzech notebookow jupyter dla zbioru heart failure."
+      "norm_label": "generator trzech notebookow jupyter dla zbioru heart failure.",
+      "id": "gen_notebooks_rationale_1"
     },
     {
       "label": "HF AFT Model AIC Comparison Chart",
@@ -66,9 +66,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_aic_comparison_chart",
       "community": 10,
-      "norm_label": "hf aft model aic comparison chart"
+      "norm_label": "hf aft model aic comparison chart",
+      "id": "hf_aft_aic_comparison_chart"
     },
     {
       "label": "Weibull AFT Model (Heart Failure)",
@@ -79,9 +79,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_aic_comparison_weibull_aft",
       "community": 10,
-      "norm_label": "weibull aft model (heart failure)"
+      "norm_label": "weibull aft model (heart failure)",
+      "id": "hf_aft_aic_comparison_weibull_aft"
     },
     {
       "label": "Log-Logistic AFT Model (Heart Failure)",
@@ -92,9 +92,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_aic_comparison_loglogistic_aft",
       "community": 10,
-      "norm_label": "log-logistic aft model (heart failure)"
+      "norm_label": "log-logistic aft model (heart failure)",
+      "id": "hf_aft_aic_comparison_loglogistic_aft"
     },
     {
       "label": "Log-Normal AFT Model (Heart Failure)",
@@ -105,9 +105,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_aic_comparison_lognormal_aft",
       "community": 10,
-      "norm_label": "log-normal aft model (heart failure)"
+      "norm_label": "log-normal aft model (heart failure)",
+      "id": "hf_aft_aic_comparison_lognormal_aft"
     },
     {
       "label": "AIC Model Selection Criterion",
@@ -118,9 +118,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_aic_comparison_aic_criterion",
       "community": 10,
-      "norm_label": "aic model selection criterion"
+      "norm_label": "aic model selection criterion",
+      "id": "hf_aft_aic_comparison_aic_criterion"
     },
     {
       "label": "Heart Failure Clinical Records Dataset",
@@ -131,9 +131,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_aic_comparison_heart_failure_dataset",
       "community": 10,
-      "norm_label": "heart failure clinical records dataset"
+      "norm_label": "heart failure clinical records dataset",
+      "id": "hf_aft_aic_comparison_heart_failure_dataset"
     },
     {
       "label": "Parametric AFT Survival Analysis",
@@ -144,9 +144,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_aic_comparison_aft_parametric_analysis",
       "community": 10,
-      "norm_label": "parametric aft survival analysis"
+      "norm_label": "parametric aft survival analysis",
+      "id": "hf_aft_aic_comparison_aft_parametric_analysis"
     },
     {
       "label": "HF AFT Hazard Profiles Figure",
@@ -157,9 +157,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_figure",
       "community": 6,
-      "norm_label": "hf aft hazard profiles figure"
+      "norm_label": "hf aft hazard profiles figure",
+      "id": "hf_aft_hazard_profiles_figure"
     },
     {
       "label": "Log-Normal AFT Model",
@@ -170,9 +170,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_lognormal_aft_model",
       "community": 6,
-      "norm_label": "log-normal aft model"
+      "norm_label": "log-normal aft model",
+      "id": "hf_aft_hazard_profiles_lognormal_aft_model"
     },
     {
       "label": "Hazard Function h(t)",
@@ -183,9 +183,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_hazard_function",
       "community": 6,
-      "norm_label": "hazard function h(t)"
+      "norm_label": "hazard function h(t)",
+      "id": "hf_aft_hazard_profiles_hazard_function"
     },
     {
       "label": "Patient A \u2013 Low Risk Profile",
@@ -196,9 +196,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_patient_a",
       "community": 6,
-      "norm_label": "patient a \u2013 low risk profile"
+      "norm_label": "patient a \u2013 low risk profile",
+      "id": "hf_aft_hazard_profiles_patient_a"
     },
     {
       "label": "Patient B \u2013 Medium Risk Profile",
@@ -209,9 +209,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_patient_b",
       "community": 6,
-      "norm_label": "patient b \u2013 medium risk profile"
+      "norm_label": "patient b \u2013 medium risk profile",
+      "id": "hf_aft_hazard_profiles_patient_b"
     },
     {
       "label": "Patient C \u2013 High Risk Profile",
@@ -222,9 +222,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_patient_c",
       "community": 6,
-      "norm_label": "patient c \u2013 high risk profile"
+      "norm_label": "patient c \u2013 high risk profile",
+      "id": "hf_aft_hazard_profiles_patient_c"
     },
     {
       "label": "Patient D \u2013 High Risk Profile",
@@ -235,9 +235,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_patient_d",
       "community": 6,
-      "norm_label": "patient d \u2013 high risk profile"
+      "norm_label": "patient d \u2013 high risk profile",
+      "id": "hf_aft_hazard_profiles_patient_d"
     },
     {
       "label": "Heart Failure Clinical Records Dataset",
@@ -248,9 +248,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_heart_failure_dataset",
       "community": 6,
-      "norm_label": "heart failure clinical records dataset"
+      "norm_label": "heart failure clinical records dataset",
+      "id": "hf_aft_hazard_profiles_heart_failure_dataset"
     },
     {
       "label": "Patient Risk Stratification",
@@ -261,9 +261,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_risk_stratification",
       "community": 6,
-      "norm_label": "patient risk stratification"
+      "norm_label": "patient risk stratification",
+      "id": "hf_aft_hazard_profiles_risk_stratification"
     },
     {
       "label": "Time-Varying Hazard Pattern (Log-Normal Shape)",
@@ -274,9 +274,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_hazard_profiles_time_varying_hazard",
       "community": 6,
-      "norm_label": "time-varying hazard pattern (log-normal shape)"
+      "norm_label": "time-varying hazard pattern (log-normal shape)",
+      "id": "hf_aft_hazard_profiles_time_varying_hazard"
     },
     {
       "label": "HF AFT Survival Profiles Plot",
@@ -287,9 +287,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_image",
       "community": 7,
-      "norm_label": "hf aft survival profiles plot"
+      "norm_label": "hf aft survival profiles plot",
+      "id": "hf_aft_survival_profiles_image"
     },
     {
       "label": "Log-Normal AFT Model",
@@ -300,9 +300,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_lognormal_aft_model",
       "community": 7,
-      "norm_label": "log-normal aft model"
+      "norm_label": "log-normal aft model",
+      "id": "hf_aft_survival_profiles_lognormal_aft_model"
     },
     {
       "label": "Survival Function S(t)",
@@ -313,9 +313,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_survival_function",
       "community": 7,
-      "norm_label": "survival function s(t)"
+      "norm_label": "survival function s(t)",
+      "id": "hf_aft_survival_profiles_survival_function"
     },
     {
       "label": "Patient A \u2013 Low Risk Profile",
@@ -326,9 +326,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_patient_a",
       "community": 7,
-      "norm_label": "patient a \u2013 low risk profile"
+      "norm_label": "patient a \u2013 low risk profile",
+      "id": "hf_aft_survival_profiles_patient_a"
     },
     {
       "label": "Patient B \u2013 Medium Risk Profile",
@@ -339,9 +339,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_patient_b",
       "community": 7,
-      "norm_label": "patient b \u2013 medium risk profile"
+      "norm_label": "patient b \u2013 medium risk profile",
+      "id": "hf_aft_survival_profiles_patient_b"
     },
     {
       "label": "Patient C \u2013 High Risk Profile",
@@ -352,9 +352,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_patient_c",
       "community": 7,
-      "norm_label": "patient c \u2013 high risk profile"
+      "norm_label": "patient c \u2013 high risk profile",
+      "id": "hf_aft_survival_profiles_patient_c"
     },
     {
       "label": "Patient D \u2013 High Risk Profile",
@@ -365,9 +365,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_patient_d",
       "community": 7,
-      "norm_label": "patient d \u2013 high risk profile"
+      "norm_label": "patient d \u2013 high risk profile",
+      "id": "hf_aft_survival_profiles_patient_d"
     },
     {
       "label": "Heart Failure Clinical Records Dataset",
@@ -378,9 +378,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_heart_failure_dataset",
       "community": 7,
-      "norm_label": "heart failure clinical records dataset"
+      "norm_label": "heart failure clinical records dataset",
+      "id": "hf_aft_survival_profiles_heart_failure_dataset"
     },
     {
       "label": "Risk Stratification (Low / Medium / High)",
@@ -391,9 +391,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_risk_stratification",
       "community": 7,
-      "norm_label": "risk stratification (low / medium / high)"
+      "norm_label": "risk stratification (low / medium / high)",
+      "id": "hf_aft_survival_profiles_risk_stratification"
     },
     {
       "label": "Follow-up Time (Days, 0\u2013280)",
@@ -404,9 +404,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_aft_survival_profiles_time_days",
       "community": 7,
-      "norm_label": "follow-up time (days, 0\u2013280)"
+      "norm_label": "follow-up time (days, 0\u2013280)",
+      "id": "hf_aft_survival_profiles_time_days"
     },
     {
       "label": "HF Censoring Analysis Chart",
@@ -417,9 +417,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_censoring_image",
       "community": 11,
-      "norm_label": "hf censoring analysis chart"
+      "norm_label": "hf censoring analysis chart",
+      "id": "hf_censoring_image"
     },
     {
       "label": "Heart Failure Clinical Records Dataset",
@@ -430,9 +430,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_censoring_dataset",
       "community": 11,
-      "norm_label": "heart failure clinical records dataset"
+      "norm_label": "heart failure clinical records dataset",
+      "id": "hf_censoring_dataset"
     },
     {
       "label": "Censored Observations (67.9%)",
@@ -443,9 +443,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_censoring_censored_group",
       "community": 11,
-      "norm_label": "censored observations (67.9%)"
+      "norm_label": "censored observations (67.9%)",
+      "id": "hf_censoring_censored_group"
     },
     {
       "label": "Death Events / Zgon (32.1%)",
@@ -456,9 +456,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_censoring_event_group",
       "community": 11,
-      "norm_label": "death events / zgon (32.1%)"
+      "norm_label": "death events / zgon (32.1%)",
+      "id": "hf_censoring_event_group"
     },
     {
       "label": "Observation Time Distribution by Status (Histogram)",
@@ -469,9 +469,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_censoring_observation_time_distribution",
       "community": 11,
-      "norm_label": "observation time distribution by status (histogram)"
+      "norm_label": "observation time distribution by status (histogram)",
+      "id": "hf_censoring_observation_time_distribution"
     },
     {
       "label": "Event vs Censoring Proportion Pie Chart",
@@ -482,9 +482,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "hf_censoring_event_proportion_piechart",
       "community": 11,
-      "norm_label": "event vs censoring proportion pie chart"
+      "norm_label": "event vs censoring proportion pie chart",
+      "id": "hf_censoring_event_proportion_piechart"
     },
     {
       "label": "Right Censoring (Survival Analysis Concept)",
@@ -495,9 +495,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "concept_right_censoring",
       "community": 11,
-      "norm_label": "right censoring (survival analysis concept)"
+      "norm_label": "right censoring (survival analysis concept)",
+      "id": "concept_right_censoring"
     },
     {
       "label": "ACT Survival Analysis Project",
@@ -508,9 +508,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_act_project",
       "community": 2,
-      "norm_label": "act survival analysis project"
+      "norm_label": "act survival analysis project",
+      "id": "claudemd_act_project"
     },
     {
       "label": "aids_data.csv (ACTG175 HIV/AIDS Trial)",
@@ -521,9 +521,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_aids_data",
       "community": 2,
-      "norm_label": "aids_data.csv (actg175 hiv/aids trial)"
+      "norm_label": "aids_data.csv (actg175 hiv/aids trial)",
+      "id": "claudemd_aids_data"
     },
     {
       "label": "heart_failure_clinical_records_dataset.csv",
@@ -534,9 +534,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_heart_failure_data",
       "community": 2,
-      "norm_label": "heart_failure_clinical_records_dataset.csv"
+      "norm_label": "heart_failure_clinical_records_dataset.csv",
+      "id": "claudemd_heart_failure_data"
     },
     {
       "label": "analiza_parametryczna.ipynb (Parametric AFT Models)",
@@ -547,9 +547,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_analiza_parametryczna",
       "community": 2,
-      "norm_label": "analiza_parametryczna.ipynb (parametric aft models)"
+      "norm_label": "analiza_parametryczna.ipynb (parametric aft models)",
+      "id": "claudemd_analiza_parametryczna"
     },
     {
       "label": "model_semiparametryczny.ipynb (Cox PH Semiparametric)",
@@ -560,9 +560,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_model_semiparametryczny",
       "community": 2,
-      "norm_label": "model_semiparametryczny.ipynb (cox ph semiparametric)"
+      "norm_label": "model_semiparametryczny.ipynb (cox ph semiparametric)",
+      "id": "claudemd_model_semiparametryczny"
     },
     {
       "label": "modele_nieparametryczne.ipynb (Nonparametric Models)",
@@ -573,9 +573,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_modele_nieparametryczne",
       "community": 2,
-      "norm_label": "modele_nieparametryczne.ipynb (nonparametric models)"
+      "norm_label": "modele_nieparametryczne.ipynb (nonparametric models)",
+      "id": "claudemd_modele_nieparametryczne"
     },
     {
       "label": "ACT_projekt_nieparam.sas (SAS PROC LIFETEST)",
@@ -586,9 +586,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_sas_script",
       "community": 2,
-      "norm_label": "act_projekt_nieparam.sas (sas proc lifetest)"
+      "norm_label": "act_projekt_nieparam.sas (sas proc lifetest)",
+      "id": "claudemd_sas_script"
     },
     {
       "label": "Right-Censored Data",
@@ -599,9 +599,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_right_censored_data",
       "community": 2,
-      "norm_label": "right-censored data"
+      "norm_label": "right-censored data",
+      "id": "claudemd_right_censored_data"
     },
     {
       "label": "lifelines (Python Survival Analysis Library)",
@@ -612,9 +612,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_lifelines_library",
       "community": 2,
-      "norm_label": "lifelines (python survival analysis library)"
+      "norm_label": "lifelines (python survival analysis library)",
+      "id": "claudemd_lifelines_library"
     },
     {
       "label": "Weibull AFT Model",
@@ -625,9 +625,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_weibull_model",
       "community": 2,
-      "norm_label": "weibull aft model"
+      "norm_label": "weibull aft model",
+      "id": "claudemd_weibull_model"
     },
     {
       "label": "Log-Normal AFT Model",
@@ -638,9 +638,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_lognormal_model",
       "community": 2,
-      "norm_label": "log-normal aft model"
+      "norm_label": "log-normal aft model",
+      "id": "claudemd_lognormal_model"
     },
     {
       "label": "Log-Logistic AFT Model",
@@ -651,9 +651,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_loglogistic_model",
       "community": 2,
-      "norm_label": "log-logistic aft model"
+      "norm_label": "log-logistic aft model",
+      "id": "claudemd_loglogistic_model"
     },
     {
       "label": "Cox Proportional Hazards Model",
@@ -664,9 +664,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_cox_ph",
       "community": 2,
-      "norm_label": "cox proportional hazards model"
+      "norm_label": "cox proportional hazards model",
+      "id": "claudemd_cox_ph"
     },
     {
       "label": "Kaplan-Meier Estimator",
@@ -677,9 +677,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_kaplan_meier",
       "community": 2,
-      "norm_label": "kaplan-meier estimator"
+      "norm_label": "kaplan-meier estimator",
+      "id": "claudemd_kaplan_meier"
     },
     {
       "label": "SAS PROC LIFETEST",
@@ -690,9 +690,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "claudemd_proc_lifetest",
       "community": 2,
-      "norm_label": "sas proc lifetest"
+      "norm_label": "sas proc lifetest",
+      "id": "claudemd_proc_lifetest"
     },
     {
       "label": "TODO: Check Proportionality in Semiparametric Model",
@@ -703,9 +703,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "notatak_check_proportionality",
       "community": 2,
-      "norm_label": "todo: check proportionality in semiparametric model"
+      "norm_label": "todo: check proportionality in semiparametric model",
+      "id": "notatak_check_proportionality"
     },
     {
       "label": "TODO: Add Probability Plot for Log Survival Function",
@@ -716,9 +716,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "notatak_prob_plot",
       "community": 2,
-      "norm_label": "todo: add probability plot for log survival function"
+      "norm_label": "todo: add probability plot for log survival function",
+      "id": "notatak_prob_plot"
     },
     {
       "label": "TODO: Port SAS Code to Python",
@@ -729,9 +729,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "notatak_sas_to_python",
       "community": 2,
-      "norm_label": "todo: port sas code to python"
+      "norm_label": "todo: port sas code to python",
+      "id": "notatak_sas_to_python"
     },
     {
       "label": "Rationale: SAS Code Is Fuller/More Complete Reference",
@@ -742,9 +742,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "notatak_rationale_sas_reference",
       "community": 2,
-      "norm_label": "rationale: sas code is fuller/more complete reference"
+      "norm_label": "rationale: sas code is fuller/more complete reference",
+      "id": "notatak_rationale_sas_reference"
     },
     {
       "label": "Survival Analysis (Analiza czasu trwania)",
@@ -755,9 +755,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_survival_analysis",
       "community": 3,
-      "norm_label": "survival analysis (analiza czasu trwania)"
+      "norm_label": "survival analysis (analiza czasu trwania)",
+      "id": "wprowadzenie_survival_analysis"
     },
     {
       "label": "Event History Analysis",
@@ -768,9 +768,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_event_history_analysis",
       "community": 3,
-      "norm_label": "event history analysis"
+      "norm_label": "event history analysis",
+      "id": "wprowadzenie_event_history_analysis"
     },
     {
       "label": "Censoring (Obci\u0119cie)",
@@ -781,9 +781,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_censoring",
       "community": 8,
-      "norm_label": "censoring (obciecie)"
+      "norm_label": "censoring (obciecie)",
+      "id": "wprowadzenie_censoring"
     },
     {
       "label": "Right Censoring (Obci\u0119cie prawostronne)",
@@ -794,9 +794,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_right_censoring",
       "community": 8,
-      "norm_label": "right censoring (obciecie prawostronne)"
+      "norm_label": "right censoring (obciecie prawostronne)",
+      "id": "wprowadzenie_right_censoring"
     },
     {
       "label": "Left Censoring (Obci\u0119cie lewostronne)",
@@ -807,9 +807,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_left_censoring",
       "community": 8,
-      "norm_label": "left censoring (obciecie lewostronne)"
+      "norm_label": "left censoring (obciecie lewostronne)",
+      "id": "wprowadzenie_left_censoring"
     },
     {
       "label": "Type I Censoring (fixed censoring time)",
@@ -820,9 +820,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_type_i_censoring",
       "community": 8,
-      "norm_label": "type i censoring (fixed censoring time)"
+      "norm_label": "type i censoring (fixed censoring time)",
+      "id": "wprowadzenie_type_i_censoring"
     },
     {
       "label": "Type II Censoring (event-number-dependent censoring time)",
@@ -833,9 +833,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_type_ii_censoring",
       "community": 8,
-      "norm_label": "type ii censoring (event-number-dependent censoring time)"
+      "norm_label": "type ii censoring (event-number-dependent censoring time)",
+      "id": "wprowadzenie_type_ii_censoring"
     },
     {
       "label": "Random Censoring (uncontrolled censoring)",
@@ -846,9 +846,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_random_censoring",
       "community": 8,
-      "norm_label": "random censoring (uncontrolled censoring)"
+      "norm_label": "random censoring (uncontrolled censoring)",
+      "id": "wprowadzenie_random_censoring"
     },
     {
       "label": "Noninformative Censoring (key assumption of survival analysis)",
@@ -859,9 +859,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_noninformative_censoring",
       "community": 8,
-      "norm_label": "noninformative censoring (key assumption of survival analysis)"
+      "norm_label": "noninformative censoring (key assumption of survival analysis)",
+      "id": "wprowadzenie_noninformative_censoring"
     },
     {
       "label": "Time-Dependent Covariates (time-varying explanatory variables)",
@@ -872,9 +872,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_time_dependent_covariates",
       "community": 3,
-      "norm_label": "time-dependent covariates (time-varying explanatory variables)"
+      "norm_label": "time-dependent covariates (time-varying explanatory variables)",
+      "id": "wprowadzenie_time_dependent_covariates"
     },
     {
       "label": "Hazard Function (Funkcja hazardu)",
@@ -885,9 +885,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_hazard_function",
       "community": 14,
-      "norm_label": "hazard function (funkcja hazardu)"
+      "norm_label": "hazard function (funkcja hazardu)",
+      "id": "wprowadzenie_hazard_function"
     },
     {
       "label": "Survival Function (Funkcja prze\u017cycia)",
@@ -898,9 +898,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_survival_function",
       "community": 14,
-      "norm_label": "survival function (funkcja przezycia)"
+      "norm_label": "survival function (funkcja przezycia)",
+      "id": "wprowadzenie_survival_function"
     },
     {
       "label": "Cumulative Distribution Function (Dystrybuanta)",
@@ -911,9 +911,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_cumulative_distribution_function",
       "community": 14,
-      "norm_label": "cumulative distribution function (dystrybuanta)"
+      "norm_label": "cumulative distribution function (dystrybuanta)",
+      "id": "wprowadzenie_cumulative_distribution_function"
     },
     {
       "label": "Probability Density Function (Funkcja g\u0119sto\u015bci)",
@@ -924,9 +924,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_probability_density_function",
       "community": 14,
-      "norm_label": "probability density function (funkcja gestosci)"
+      "norm_label": "probability density function (funkcja gestosci)",
+      "id": "wprowadzenie_probability_density_function"
     },
     {
       "label": "Cumulative Hazard Function H(t)",
@@ -937,9 +937,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_cumulative_hazard_function",
       "community": 14,
-      "norm_label": "cumulative hazard function h(t)"
+      "norm_label": "cumulative hazard function h(t)",
+      "id": "wprowadzenie_cumulative_hazard_function"
     },
     {
       "label": "Single Episode Model",
@@ -950,9 +950,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_single_episode_model",
       "community": 3,
-      "norm_label": "single episode model"
+      "norm_label": "single episode model",
+      "id": "wprowadzenie_single_episode_model"
     },
     {
       "label": "Multi-State Model (including competing risks)",
@@ -963,9 +963,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_multi_state_model",
       "community": 3,
-      "norm_label": "multi-state model (including competing risks)"
+      "norm_label": "multi-state model (including competing risks)",
+      "id": "wprowadzenie_multi_state_model"
     },
     {
       "label": "Competing Risks Model",
@@ -976,9 +976,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_competing_risks_model",
       "community": 3,
-      "norm_label": "competing risks model"
+      "norm_label": "competing risks model",
+      "id": "wprowadzenie_competing_risks_model"
     },
     {
       "label": "Multi-Episode Model",
@@ -989,9 +989,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_multi_episode_model",
       "community": 3,
-      "norm_label": "multi-episode model"
+      "norm_label": "multi-episode model",
+      "id": "wprowadzenie_multi_episode_model"
     },
     {
       "label": "Nonparametric Models (Modele nieparametryczne)",
@@ -1002,9 +1002,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_nonparametric_models",
       "community": 4,
-      "norm_label": "nonparametric models (modele nieparametryczne)"
+      "norm_label": "nonparametric models (modele nieparametryczne)",
+      "id": "wprowadzenie_nonparametric_models"
     },
     {
       "label": "Life Tables (Tablice trwania \u017cycia)",
@@ -1015,9 +1015,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_life_tables",
       "community": 4,
-      "norm_label": "life tables (tablice trwania zycia)"
+      "norm_label": "life tables (tablice trwania zycia)",
+      "id": "wprowadzenie_life_tables"
     },
     {
       "label": "Kaplan-Meier Estimator",
@@ -1028,9 +1028,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_kaplan_meier",
       "community": 4,
-      "norm_label": "kaplan-meier estimator"
+      "norm_label": "kaplan-meier estimator",
+      "id": "wprowadzenie_kaplan_meier"
     },
     {
       "label": "Parametric Models (Modele parametryczne)",
@@ -1041,9 +1041,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_parametric_models",
       "community": 4,
-      "norm_label": "parametric models (modele parametryczne)"
+      "norm_label": "parametric models (modele parametryczne)",
+      "id": "wprowadzenie_parametric_models"
     },
     {
       "label": "Gompertz Model",
@@ -1054,9 +1054,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_gompertz_model",
       "community": 4,
-      "norm_label": "gompertz model"
+      "norm_label": "gompertz model",
+      "id": "wprowadzenie_gompertz_model"
     },
     {
       "label": "Weibull Model",
@@ -1067,9 +1067,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_weibull_model",
       "community": 4,
-      "norm_label": "weibull model"
+      "norm_label": "weibull model",
+      "id": "wprowadzenie_weibull_model"
     },
     {
       "label": "Log-Logistic Model",
@@ -1080,9 +1080,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_log_logistic_model",
       "community": 4,
-      "norm_label": "log-logistic model"
+      "norm_label": "log-logistic model",
+      "id": "wprowadzenie_log_logistic_model"
     },
     {
       "label": "Log-Normal Model",
@@ -1093,9 +1093,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_log_normal_model",
       "community": 4,
-      "norm_label": "log-normal model"
+      "norm_label": "log-normal model",
+      "id": "wprowadzenie_log_normal_model"
     },
     {
       "label": "Semiparametric Models (Modele semiparametryczne)",
@@ -1106,9 +1106,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_semiparametric_models",
       "community": 4,
-      "norm_label": "semiparametric models (modele semiparametryczne)"
+      "norm_label": "semiparametric models (modele semiparametryczne)",
+      "id": "wprowadzenie_semiparametric_models"
     },
     {
       "label": "Cox Proportional Hazards Regression",
@@ -1119,9 +1119,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_cox_regression",
       "community": 4,
-      "norm_label": "cox proportional hazards regression"
+      "norm_label": "cox proportional hazards regression",
+      "id": "wprowadzenie_cox_regression"
     },
     {
       "label": "Substantive Process (Coleman 1981)",
@@ -1132,9 +1132,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_substantive_process",
       "community": 3,
-      "norm_label": "substantive process (coleman 1981)"
+      "norm_label": "substantive process (coleman 1981)",
+      "id": "wprowadzenie_substantive_process"
     },
     {
       "label": "Causality Mechanism (Mechanizm przyczynowo\u015bci)",
@@ -1145,9 +1145,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_causality",
       "community": 3,
-      "norm_label": "causality mechanism (mechanizm przyczynowosci)"
+      "norm_label": "causality mechanism (mechanizm przyczynowosci)",
+      "id": "wprowadzenie_causality"
     },
     {
       "label": "Episode (Epizod)",
@@ -1158,9 +1158,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_episode",
       "community": 15,
-      "norm_label": "episode (epizod)"
+      "norm_label": "episode (epizod)",
+      "id": "wprowadzenie_episode"
     },
     {
       "label": "Career (Kariera) - sequence of events",
@@ -1171,9 +1171,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_career",
       "community": 15,
-      "norm_label": "career (kariera) - sequence of events"
+      "norm_label": "career (kariera) - sequence of events",
+      "id": "wprowadzenie_career"
     },
     {
       "label": "Event (Zdarzenie) - state transition",
@@ -1184,9 +1184,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_event",
       "community": 15,
-      "norm_label": "event (zdarzenie) - state transition"
+      "norm_label": "event (zdarzenie) - state transition",
+      "id": "wprowadzenie_event"
     },
     {
       "label": "Fixed Covariates (Cechy sta\u0142e)",
@@ -1197,9 +1197,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_covariates_fixed",
       "community": 3,
-      "norm_label": "fixed covariates (cechy sta\u0142e)"
+      "norm_label": "fixed covariates (cechy sta\u0142e)",
+      "id": "wprowadzenie_covariates_fixed"
     },
     {
       "label": "Time-Varying Covariates (Cechy zmienne)",
@@ -1210,9 +1210,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_covariates_variable",
       "community": 16,
-      "norm_label": "time-varying covariates (cechy zmienne)"
+      "norm_label": "time-varying covariates (cechy zmienne)",
+      "id": "wprowadzenie_covariates_variable"
     },
     {
       "label": "Primary Covariates (Cechy pierwotne) - state identification",
@@ -1223,9 +1223,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_primary_covariates",
       "community": 15,
-      "norm_label": "primary covariates (cechy pierwotne) - state identification"
+      "norm_label": "primary covariates (cechy pierwotne) - state identification",
+      "id": "wprowadzenie_primary_covariates"
     },
     {
       "label": "Secondary Covariates (Cechy wt\u00f3rne) - unit differentiation",
@@ -1236,9 +1236,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_secondary_covariates",
       "community": 17,
-      "norm_label": "secondary covariates (cechy wtorne) - unit differentiation"
+      "norm_label": "secondary covariates (cechy wtorne) - unit differentiation",
+      "id": "wprowadzenie_secondary_covariates"
     },
     {
       "label": "Longitudinal Study (Badanie wzd\u0142u\u017cne)",
@@ -1249,9 +1249,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_longitudinal_study",
       "community": 3,
-      "norm_label": "longitudinal study (badanie wzd\u0142uzne)"
+      "norm_label": "longitudinal study (badanie wzd\u0142uzne)",
+      "id": "wprowadzenie_longitudinal_study"
     },
     {
       "label": "Cross-Sectional Study (Badanie przekrojowe)",
@@ -1262,9 +1262,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_cross_sectional_study",
       "community": 18,
-      "norm_label": "cross-sectional study (badanie przekrojowe)"
+      "norm_label": "cross-sectional study (badanie przekrojowe)",
+      "id": "wprowadzenie_cross_sectional_study"
     },
     {
       "label": "Panel Study (Badanie panelowe)",
@@ -1275,9 +1275,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_panel_study",
       "community": 19,
-      "norm_label": "panel study (badanie panelowe)"
+      "norm_label": "panel study (badanie panelowe)",
+      "id": "wprowadzenie_panel_study"
     },
     {
       "label": "SAS Procedures for Survival Analysis",
@@ -1288,9 +1288,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_sas_procedures",
       "community": 4,
-      "norm_label": "sas procedures for survival analysis"
+      "norm_label": "sas procedures for survival analysis",
+      "id": "wprowadzenie_sas_procedures"
     },
     {
       "label": "SAS PROC LIFETEST",
@@ -1301,9 +1301,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_sas_lifetest",
       "community": 4,
-      "norm_label": "sas proc lifetest"
+      "norm_label": "sas proc lifetest",
+      "id": "wprowadzenie_sas_lifetest"
     },
     {
       "label": "SAS PROC LIFEREG",
@@ -1314,9 +1314,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_sas_lifereg",
       "community": 4,
-      "norm_label": "sas proc lifereg"
+      "norm_label": "sas proc lifereg",
+      "id": "wprowadzenie_sas_lifereg"
     },
     {
       "label": "SAS PROC PHREG",
@@ -1327,9 +1327,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_sas_phreg",
       "community": 4,
-      "norm_label": "sas proc phreg"
+      "norm_label": "sas proc phreg",
+      "id": "wprowadzenie_sas_phreg"
     },
     {
       "label": "Myelomatosis Data (example dataset)",
@@ -1340,9 +1340,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_myelomatosis_data",
       "community": 8,
-      "norm_label": "myelomatosis data (example dataset)"
+      "norm_label": "myelomatosis data (example dataset)",
+      "id": "wprowadzenie_myelomatosis_data"
     },
     {
       "label": "Allison (2010) - Survival Analysis reference",
@@ -1353,9 +1353,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "wprowadzenie_ref_allison2010",
       "community": 3,
-      "norm_label": "allison (2010) - survival analysis reference"
+      "norm_label": "allison (2010) - survival analysis reference",
+      "id": "wprowadzenie_ref_allison2010"
     },
     {
       "label": "Blossfeld & Rohwer (2002) - Event History Analysis reference",
@@ -1366,9 +1366,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "wprowadzenie_ref_blossfeld_rohwer2002",
       "community": 3,
-      "norm_label": "blossfeld & rohwer (2002) - event history analysis reference"
+      "norm_label": "blossfeld & rohwer (2002) - event history analysis reference",
+      "id": "wprowadzenie_ref_blossfeld_rohwer2002"
     },
     {
       "label": "Coleman (1981) - Substantive Process reference",
@@ -1379,9 +1379,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "wprowadzenie_ref_coleman1981",
       "community": 3,
-      "norm_label": "coleman (1981) - substantive process reference"
+      "norm_label": "coleman (1981) - substantive process reference",
+      "id": "wprowadzenie_ref_coleman1981"
     },
     {
       "label": "Cox & Oakes (1984) - Noninformative Censoring reference",
@@ -1392,9 +1392,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "wprowadzenie_ref_cox_oakes1984",
       "community": 8,
-      "norm_label": "cox & oakes (1984) - noninformative censoring reference"
+      "norm_label": "cox & oakes (1984) - noninformative censoring reference",
+      "id": "wprowadzenie_ref_cox_oakes1984"
     },
     {
       "label": "Reliability Analysis / Failure Time Analysis (engineering domain)",
@@ -1405,9 +1405,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_reliability_analysis",
       "community": 3,
-      "norm_label": "reliability analysis / failure time analysis (engineering domain)"
+      "norm_label": "reliability analysis / failure time analysis (engineering domain)",
+      "id": "wprowadzenie_reliability_analysis"
     },
     {
       "label": "Duration Analysis / Transition Analysis (economics domain)",
@@ -1418,9 +1418,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_duration_analysis",
       "community": 3,
-      "norm_label": "duration analysis / transition analysis (economics domain)"
+      "norm_label": "duration analysis / transition analysis (economics domain)",
+      "id": "wprowadzenie_duration_analysis"
     },
     {
       "label": "Rationale: Longitudinal study is best suited for ACT because it tracks state changes continuously over time",
@@ -1431,9 +1431,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_rationale_longitudinal_preferred",
       "community": 3,
-      "norm_label": "rationale: longitudinal study is best suited for act because it tracks state changes continuously over time"
+      "norm_label": "rationale: longitudinal study is best suited for act because it tracks state changes continuously over time",
+      "id": "wprowadzenie_rationale_longitudinal_preferred"
     },
     {
       "label": "Rationale: Noninformative censoring is required so that censored individuals represent all survivors at that time point",
@@ -1444,9 +1444,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "wprowadzenie_rationale_noninformative_assumption",
       "community": 8,
-      "norm_label": "rationale: noninformative censoring is required so that censored individuals represent all survivors at that time point"
+      "norm_label": "rationale: noninformative censoring is required so that censored individuals represent all survivors at that time point",
+      "id": "wprowadzenie_rationale_noninformative_assumption"
     },
     {
       "label": "Analiza czasu trwania \u2013 modele nieparametryczne (Presentation)",
@@ -1457,9 +1457,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_nieparametryczne_presentation",
       "community": 9,
-      "norm_label": "analiza czasu trwania \u2013 modele nieparametryczne (presentation)"
+      "norm_label": "analiza czasu trwania \u2013 modele nieparametryczne (presentation)",
+      "id": "modele_nieparametryczne_presentation"
     },
     {
       "label": "Aneta Ptak-Chmielewska",
@@ -1470,9 +1470,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_aneta_ptak_chmielewska",
       "community": 9,
-      "norm_label": "aneta ptak-chmielewska"
+      "norm_label": "aneta ptak-chmielewska",
+      "id": "modele_nieparametryczne_aneta_ptak_chmielewska"
     },
     {
       "label": "Survival Analysis (Analiza czasu trwania / prze\u017cycia)",
@@ -1483,9 +1483,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_survival_analysis",
       "community": 9,
-      "norm_label": "survival analysis (analiza czasu trwania / przezycia)"
+      "norm_label": "survival analysis (analiza czasu trwania / przezycia)",
+      "id": "modele_nieparametryczne_survival_analysis"
     },
     {
       "label": "Single Episode Model (Model pojedynczych epizod\u00f3w)",
@@ -1496,9 +1496,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_single_episode_model",
       "community": 9,
-      "norm_label": "single episode model (model pojedynczych epizodow)"
+      "norm_label": "single episode model (model pojedynczych epizodow)",
+      "id": "modele_nieparametryczne_single_episode_model"
     },
     {
       "label": "Competing Risks Model (Model ryzyka konkurencyjnego)",
@@ -1509,9 +1509,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_competing_risks_model",
       "community": 9,
-      "norm_label": "competing risks model (model ryzyka konkurencyjnego)"
+      "norm_label": "competing risks model (model ryzyka konkurencyjnego)",
+      "id": "modele_nieparametryczne_competing_risks_model"
     },
     {
       "label": "Multi-Episode Model (Model wielu epizod\u00f3w)",
@@ -1522,9 +1522,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_multi_episode_model",
       "community": 9,
-      "norm_label": "multi-episode model (model wielu epizodow)"
+      "norm_label": "multi-episode model (model wielu epizodow)",
+      "id": "modele_nieparametryczne_multi_episode_model"
     },
     {
       "label": "Nonparametric Models (Modele nieparametryczne)",
@@ -1535,9 +1535,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_nonparametric_models",
       "community": 1,
-      "norm_label": "nonparametric models (modele nieparametryczne)"
+      "norm_label": "nonparametric models (modele nieparametryczne)",
+      "id": "modele_nieparametryczne_nonparametric_models"
     },
     {
       "label": "Survival Function (Funkcja prze\u017cycia)",
@@ -1548,9 +1548,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_survival_function",
       "community": 1,
-      "norm_label": "survival function (funkcja przezycia)"
+      "norm_label": "survival function (funkcja przezycia)",
+      "id": "modele_nieparametryczne_survival_function"
     },
     {
       "label": "Hazard Function (Funkcja hazardu)",
@@ -1561,9 +1561,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_hazard_function",
       "community": 1,
-      "norm_label": "hazard function (funkcja hazardu)"
+      "norm_label": "hazard function (funkcja hazardu)",
+      "id": "modele_nieparametryczne_hazard_function"
     },
     {
       "label": "Density Function (Funkcja g\u0119sto\u015bci)",
@@ -1574,9 +1574,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_density_function",
       "community": 1,
-      "norm_label": "density function (funkcja gestosci)"
+      "norm_label": "density function (funkcja gestosci)",
+      "id": "modele_nieparametryczne_density_function"
     },
     {
       "label": "Life Tables (Tablice trwania \u017cycia)",
@@ -1587,9 +1587,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_life_tables",
       "community": 5,
-      "norm_label": "life tables (tablice trwania zycia)"
+      "norm_label": "life tables (tablice trwania zycia)",
+      "id": "modele_nieparametryczne_life_tables"
     },
     {
       "label": "John Graunt (1662)",
@@ -1600,9 +1600,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_john_graunt",
       "community": 5,
-      "norm_label": "john graunt (1662)"
+      "norm_label": "john graunt (1662)",
+      "id": "modele_nieparametryczne_john_graunt"
     },
     {
       "label": "J. S\u0142onimski and A. B. Danielewicz (Polish Life Tables, XIX century)",
@@ -1613,9 +1613,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_slonimski_danielewicz",
       "community": 5,
-      "norm_label": "j. s\u0142onimski and a. b. danielewicz (polish life tables, xix century)"
+      "norm_label": "j. s\u0142onimski and a. b. danielewicz (polish life tables, xix century)",
+      "id": "modele_nieparametryczne_slonimski_danielewicz"
     },
     {
       "label": "Kaplan & Meier (1958) \u2013 Survival Curve Estimation Publication",
@@ -1626,9 +1626,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_kaplan_meier_1958",
       "community": 1,
-      "norm_label": "kaplan & meier (1958) \u2013 survival curve estimation publication"
+      "norm_label": "kaplan & meier (1958) \u2013 survival curve estimation publication",
+      "id": "modele_nieparametryczne_kaplan_meier_1958"
     },
     {
       "label": "Raw (Empirical) Life Tables (Tablice surowe/empiryczne)",
@@ -1639,9 +1639,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_raw_life_tables",
       "community": 5,
-      "norm_label": "raw (empirical) life tables (tablice surowe/empiryczne)"
+      "norm_label": "raw (empirical) life tables (tablice surowe/empiryczne)",
+      "id": "modele_nieparametryczne_raw_life_tables"
     },
     {
       "label": "Model (Hypothetical) Life Tables (Tablice modelowe/hipotetyczne)",
@@ -1652,9 +1652,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_model_life_tables",
       "community": 5,
-      "norm_label": "model (hypothetical) life tables (tablice modelowe/hipotetyczne)"
+      "norm_label": "model (hypothetical) life tables (tablice modelowe/hipotetyczne)",
+      "id": "modele_nieparametryczne_model_life_tables"
     },
     {
       "label": "Complete Life Tables (Tablice pe\u0142ne \u2013 roczne przedzia\u0142y)",
@@ -1665,9 +1665,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_complete_life_tables",
       "community": 5,
-      "norm_label": "complete life tables (tablice pe\u0142ne \u2013 roczne przedzia\u0142y)"
+      "norm_label": "complete life tables (tablice pe\u0142ne \u2013 roczne przedzia\u0142y)",
+      "id": "modele_nieparametryczne_complete_life_tables"
     },
     {
       "label": "Abridged Life Tables (Tablice skr\u00f3cone \u2013 5-letnie przedzia\u0142y)",
@@ -1678,9 +1678,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_abridged_life_tables",
       "community": 5,
-      "norm_label": "abridged life tables (tablice skrocone \u2013 5-letnie przedzia\u0142y)"
+      "norm_label": "abridged life tables (tablice skrocone \u2013 5-letnie przedzia\u0142y)",
+      "id": "modele_nieparametryczne_abridged_life_tables"
     },
     {
       "label": "Cohort Life Tables (Tablice kohortowe)",
@@ -1691,9 +1691,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_cohort_life_tables",
       "community": 5,
-      "norm_label": "cohort life tables (tablice kohortowe)"
+      "norm_label": "cohort life tables (tablice kohortowe)",
+      "id": "modele_nieparametryczne_cohort_life_tables"
     },
     {
       "label": "Cross-Sectional Life Tables (Tablice przekrojowe)",
@@ -1704,9 +1704,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_cross_sectional_life_tables",
       "community": 5,
-      "norm_label": "cross-sectional life tables (tablice przekrojowe)"
+      "norm_label": "cross-sectional life tables (tablice przekrojowe)",
+      "id": "modele_nieparametryczne_cross_sectional_life_tables"
     },
     {
       "label": "Cohort (Kohorta) \u2013 group defined by a shared event",
@@ -1717,9 +1717,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_cohort",
       "community": 5,
-      "norm_label": "cohort (kohorta) \u2013 group defined by a shared event"
+      "norm_label": "cohort (kohorta) \u2013 group defined by a shared event",
+      "id": "modele_nieparametryczne_cohort"
     },
     {
       "label": "Birth Cohort (Kohorta urodzeniowa)",
@@ -1730,9 +1730,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_birth_cohort",
       "community": 5,
-      "norm_label": "birth cohort (kohorta urodzeniowa)"
+      "norm_label": "birth cohort (kohorta urodzeniowa)",
+      "id": "modele_nieparametryczne_birth_cohort"
     },
     {
       "label": "Kaplan-Meier Method (PLE \u2013 Product-Limit Estimator)",
@@ -1743,9 +1743,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_kaplan_meier_method",
       "community": 1,
-      "norm_label": "kaplan-meier method (ple \u2013 product-limit estimator)"
+      "norm_label": "kaplan-meier method (ple \u2013 product-limit estimator)",
+      "id": "modele_nieparametryczne_kaplan_meier_method"
     },
     {
       "label": "Nelson-Aalen Estimator (Cumulative Hazard Function)",
@@ -1756,9 +1756,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_nelson_aalen_estimator",
       "community": 1,
-      "norm_label": "nelson-aalen estimator (cumulative hazard function)"
+      "norm_label": "nelson-aalen estimator (cumulative hazard function)",
+      "id": "modele_nieparametryczne_nelson_aalen_estimator"
     },
     {
       "label": "Actuarial Method / Life Table Method (Metoda tradycyjna/aktuarialna)",
@@ -1769,9 +1769,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_actuarial_method",
       "community": 1,
-      "norm_label": "actuarial method / life table method (metoda tradycyjna/aktuarialna)"
+      "norm_label": "actuarial method / life table method (metoda tradycyjna/aktuarialna)",
+      "id": "modele_nieparametryczne_actuarial_method"
     },
     {
       "label": "PROC LIFETEST (SAS Procedure)",
@@ -1782,9 +1782,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_proc_lifetest",
       "community": 1,
-      "norm_label": "proc lifetest (sas procedure)"
+      "norm_label": "proc lifetest (sas procedure)",
+      "id": "modele_nieparametryczne_proc_lifetest"
     },
     {
       "label": "Kaplan-Meier Estimator Formula: S(t) = Product(1 - d_j/n_j)",
@@ -1795,9 +1795,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_km_estimator_formula",
       "community": 1,
-      "norm_label": "kaplan-meier estimator formula: s(t) = product(1 - d_j/n_j)"
+      "norm_label": "kaplan-meier estimator formula: s(t) = product(1 - d_j/n_j)",
+      "id": "modele_nieparametryczne_km_estimator_formula"
     },
     {
       "label": "Cumulative Hazard Function H(t)",
@@ -1808,9 +1808,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_cumulative_hazard_function",
       "community": 1,
-      "norm_label": "cumulative hazard function h(t)"
+      "norm_label": "cumulative hazard function h(t)",
+      "id": "modele_nieparametryczne_cumulative_hazard_function"
     },
     {
       "label": "Greenwood's Formula (Standard Error of KM Estimator)",
@@ -1821,9 +1821,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_greenwood_formula",
       "community": 1,
-      "norm_label": "greenwood's formula (standard error of km estimator)"
+      "norm_label": "greenwood's formula (standard error of km estimator)",
+      "id": "modele_nieparametryczne_greenwood_formula"
     },
     {
       "label": "Confidence Intervals for S(t) \u2013 CL and CB (EP)",
@@ -1834,9 +1834,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_confidence_intervals",
       "community": 1,
-      "norm_label": "confidence intervals for s(t) \u2013 cl and cb (ep)"
+      "norm_label": "confidence intervals for s(t) \u2013 cl and cb (ep)",
+      "id": "modele_nieparametryczne_confidence_intervals"
     },
     {
       "label": "Logit Transformation for Confidence Intervals (CONFTYPE=LOGIT)",
@@ -1847,9 +1847,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_logit_transform",
       "community": 1,
-      "norm_label": "logit transformation for confidence intervals (conftype=logit)"
+      "norm_label": "logit transformation for confidence intervals (conftype=logit)",
+      "id": "modele_nieparametryczne_logit_transform"
     },
     {
       "label": "Test of Equality of Survival Functions Between Groups",
@@ -1860,9 +1860,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_group_equality_test",
       "community": 1,
-      "norm_label": "test of equality of survival functions between groups"
+      "norm_label": "test of equality of survival functions between groups",
+      "id": "modele_nieparametryczne_group_equality_test"
     },
     {
       "label": "Log-Rank Test",
@@ -1873,9 +1873,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_log_rank_test",
       "community": 1,
-      "norm_label": "log-rank test"
+      "norm_label": "log-rank test",
+      "id": "modele_nieparametryczne_log_rank_test"
     },
     {
       "label": "Wilcoxon Test (for survival function comparison)",
@@ -1886,9 +1886,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_wilcoxon_test",
       "community": 1,
-      "norm_label": "wilcoxon test (for survival function comparison)"
+      "norm_label": "wilcoxon test (for survival function comparison)",
+      "id": "modele_nieparametryczne_wilcoxon_test"
     },
     {
       "label": "Tarone-Ware Test",
@@ -1899,9 +1899,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_tarone_ware_test",
       "community": 1,
-      "norm_label": "tarone-ware test"
+      "norm_label": "tarone-ware test",
+      "id": "modele_nieparametryczne_tarone_ware_test"
     },
     {
       "label": "Peto-Peto Test",
@@ -1912,9 +1912,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_peto_peto_test",
       "community": 1,
-      "norm_label": "peto-peto test"
+      "norm_label": "peto-peto test",
+      "id": "modele_nieparametryczne_peto_peto_test"
     },
     {
       "label": "Fleming-Harrington Test (generalization with parameters p, q)",
@@ -1925,9 +1925,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_fleming_harrington_test",
       "community": 1,
-      "norm_label": "fleming-harrington test (generalization with parameters p, q)"
+      "norm_label": "fleming-harrington test (generalization with parameters p, q)",
+      "id": "modele_nieparametryczne_fleming_harrington_test"
     },
     {
       "label": "Myelomatosis Data (Example Dataset)",
@@ -1938,9 +1938,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_myelomatosis_data",
       "community": 9,
-      "norm_label": "myelomatosis data (example dataset)"
+      "norm_label": "myelomatosis data (example dataset)",
+      "id": "modele_nieparametryczne_myelomatosis_data"
     },
     {
       "label": "Recidivism Data (Example Dataset \u2013 recid)",
@@ -1951,9 +1951,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_recidivism_data",
       "community": 9,
-      "norm_label": "recidivism data (example dataset \u2013 recid)"
+      "norm_label": "recidivism data (example dataset \u2013 recid)",
+      "id": "modele_nieparametryczne_recidivism_data"
     },
     {
       "label": "Transplant Programme Data (Aggregated Data Example)",
@@ -1964,9 +1964,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_transplant_data",
       "community": 9,
-      "norm_label": "transplant programme data (aggregated data example)"
+      "norm_label": "transplant programme data (aggregated data example)",
+      "id": "modele_nieparametryczne_transplant_data"
     },
     {
       "label": "Censoring / Censored Observations (Obserwacje obci\u0119te)",
@@ -1977,9 +1977,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_censoring",
       "community": 1,
-      "norm_label": "censoring / censored observations (obserwacje obciete)"
+      "norm_label": "censoring / censored observations (obserwacje obciete)",
+      "id": "modele_nieparametryczne_censoring"
     },
     {
       "label": "Accelerated Failure Time Model (AFT Model)",
@@ -1990,9 +1990,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_accelerated_failure_time",
       "community": 1,
-      "norm_label": "accelerated failure time model (aft model)"
+      "norm_label": "accelerated failure time model (aft model)",
+      "id": "modele_nieparametryczne_accelerated_failure_time"
     },
     {
       "label": "Weibull Model (suggested by LLS plot linearity)",
@@ -2003,9 +2003,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_weibull_model",
       "community": 1,
-      "norm_label": "weibull model (suggested by lls plot linearity)"
+      "norm_label": "weibull model (suggested by lls plot linearity)",
+      "id": "modele_nieparametryczne_weibull_model"
     },
     {
       "label": "Exponential Model (constant hazard, suggested by LS plot linearity)",
@@ -2016,9 +2016,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_exponential_model",
       "community": 1,
-      "norm_label": "exponential model (constant hazard, suggested by ls plot linearity)"
+      "norm_label": "exponential model (constant hazard, suggested by ls plot linearity)",
+      "id": "modele_nieparametryczne_exponential_model"
     },
     {
       "label": "Log Survival Plot (LS) \u2013 Cumulative Hazard vs t",
@@ -2029,9 +2029,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_log_survival_plot",
       "community": 1,
-      "norm_label": "log survival plot (ls) \u2013 cumulative hazard vs t"
+      "norm_label": "log survival plot (ls) \u2013 cumulative hazard vs t",
+      "id": "modele_nieparametryczne_log_survival_plot"
     },
     {
       "label": "Log-Log Survival Plot (LLS) \u2013 log(-logS(t)) vs log(t)",
@@ -2042,9 +2042,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_log_log_survival_plot",
       "community": 1,
-      "norm_label": "log-log survival plot (lls) \u2013 log(-logs(t)) vs log(t)"
+      "norm_label": "log-log survival plot (lls) \u2013 log(-logs(t)) vs log(t)",
+      "id": "modele_nieparametryczne_log_log_survival_plot"
     },
     {
       "label": "Kernel Smoothing of Hazard Function",
@@ -2055,9 +2055,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_kernel_smoothing",
       "community": 1,
-      "norm_label": "kernel smoothing of hazard function"
+      "norm_label": "kernel smoothing of hazard function",
+      "id": "modele_nieparametryczne_kernel_smoothing"
     },
     {
       "label": "Rationale: Nonparametric models used for preliminary data exploration before parametric modeling",
@@ -2068,9 +2068,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_rationale_nonparam_for_preliminary",
       "community": 1,
-      "norm_label": "rationale: nonparametric models used for preliminary data exploration before parametric modeling"
+      "norm_label": "rationale: nonparametric models used for preliminary data exploration before parametric modeling",
+      "id": "modele_nieparametryczne_rationale_nonparam_for_preliminary"
     },
     {
       "label": "Rationale: Nonparametric tests used for variable pre-selection for parametric models",
@@ -2081,9 +2081,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_rationale_aft_preselektion",
       "community": 1,
-      "norm_label": "rationale: nonparametric tests used for variable pre-selection for parametric models"
+      "norm_label": "rationale: nonparametric tests used for variable pre-selection for parametric models",
+      "id": "modele_nieparametryczne_rationale_aft_preselektion"
     },
     {
       "label": "Rationale: LLS plot linearity indicates Weibull model suitability",
@@ -2094,9 +2094,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "modele_nieparametryczne_rationale_lls_for_weibull",
       "community": 1,
-      "norm_label": "rationale: lls plot linearity indicates weibull model suitability"
+      "norm_label": "rationale: lls plot linearity indicates weibull model suitability",
+      "id": "modele_nieparametryczne_rationale_lls_for_weibull"
     },
     {
       "label": "Cox Proportional Hazards Model",
@@ -2107,9 +2107,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_cox_ph_model",
       "community": 0,
-      "norm_label": "cox proportional hazards model"
+      "norm_label": "cox proportional hazards model",
+      "id": "modele_semiparametryczne_cox_ph_model"
     },
     {
       "label": "Semiparametric Model",
@@ -2120,9 +2120,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_semiparametric_model",
       "community": 0,
-      "norm_label": "semiparametric model"
+      "norm_label": "semiparametric model",
+      "id": "modele_semiparametryczne_semiparametric_model"
     },
     {
       "label": "Baseline Hazard Function",
@@ -2133,9 +2133,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_baseline_hazard",
       "community": 0,
-      "norm_label": "baseline hazard function"
+      "norm_label": "baseline hazard function",
+      "id": "modele_semiparametryczne_baseline_hazard"
     },
     {
       "label": "Proportional Hazards Assumption",
@@ -2146,9 +2146,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_proportionality_assumption",
       "community": 0,
-      "norm_label": "proportional hazards assumption"
+      "norm_label": "proportional hazards assumption",
+      "id": "modele_semiparametryczne_proportionality_assumption"
     },
     {
       "label": "Partial Likelihood Method (Maximum Partial Likelihood)",
@@ -2159,9 +2159,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_partial_likelihood",
       "community": 0,
-      "norm_label": "partial likelihood method (maximum partial likelihood)"
+      "norm_label": "partial likelihood method (maximum partial likelihood)",
+      "id": "modele_semiparametryczne_partial_likelihood"
     },
     {
       "label": "PROC PHREG (SAS Proportional Hazards Regression)",
@@ -2172,9 +2172,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_proc_phreg",
       "community": 0,
-      "norm_label": "proc phreg (sas proportional hazards regression)"
+      "norm_label": "proc phreg (sas proportional hazards regression)",
+      "id": "modele_semiparametryczne_proc_phreg"
     },
     {
       "label": "Hazard Ratio (HR)",
@@ -2185,9 +2185,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_hazard_ratio",
       "community": 0,
-      "norm_label": "hazard ratio (hr)"
+      "norm_label": "hazard ratio (hr)",
+      "id": "modele_semiparametryczne_hazard_ratio"
     },
     {
       "label": "Tied Data Handling",
@@ -2198,9 +2198,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_tied_data",
       "community": 13,
-      "norm_label": "tied data handling"
+      "norm_label": "tied data handling",
+      "id": "modele_semiparametryczne_tied_data"
     },
     {
       "label": "Breslow Approximation for Tied Events",
@@ -2211,9 +2211,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_breslow_method",
       "community": 13,
-      "norm_label": "breslow approximation for tied events"
+      "norm_label": "breslow approximation for tied events",
+      "id": "modele_semiparametryczne_breslow_method"
     },
     {
       "label": "Efron Approximation for Tied Events",
@@ -2224,9 +2224,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_efron_method",
       "community": 13,
-      "norm_label": "efron approximation for tied events"
+      "norm_label": "efron approximation for tied events",
+      "id": "modele_semiparametryczne_efron_method"
     },
     {
       "label": "Exact Method for Tied Events (TIES=EXACT)",
@@ -2237,9 +2237,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_exact_method",
       "community": 13,
-      "norm_label": "exact method for tied events (ties=exact)"
+      "norm_label": "exact method for tied events (ties=exact)",
+      "id": "modele_semiparametryczne_exact_method"
     },
     {
       "label": "Discrete Time Method (TIES=DISCRETE)",
@@ -2250,9 +2250,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_discrete_method",
       "community": 13,
-      "norm_label": "discrete time method (ties=discrete)"
+      "norm_label": "discrete time method (ties=discrete)",
+      "id": "modele_semiparametryczne_discrete_method"
     },
     {
       "label": "Proportional Odds Model (Discrete Time)",
@@ -2263,9 +2263,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_proportional_odds_model",
       "community": 13,
-      "norm_label": "proportional odds model (discrete time)"
+      "norm_label": "proportional odds model (discrete time)",
+      "id": "modele_semiparametryczne_proportional_odds_model"
     },
     {
       "label": "Time-Varying Covariates",
@@ -2276,9 +2276,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_time_varying_covariates",
       "community": 0,
-      "norm_label": "time-varying covariates"
+      "norm_label": "time-varying covariates",
+      "id": "modele_semiparametryczne_time_varying_covariates"
     },
     {
       "label": "Programming Statement (data coding approach)",
@@ -2289,9 +2289,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_programming_statement",
       "community": 0,
-      "norm_label": "programming statement (data coding approach)"
+      "norm_label": "programming statement (data coding approach)",
+      "id": "modele_semiparametryczne_programming_statement"
     },
     {
       "label": "Counting Process (data coding approach)",
@@ -2302,9 +2302,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_counting_process",
       "community": 0,
-      "norm_label": "counting process (data coding approach)"
+      "norm_label": "counting process (data coding approach)",
+      "id": "modele_semiparametryczne_counting_process"
     },
     {
       "label": "Proportionality Assumption Testing",
@@ -2315,9 +2315,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_ph_assumption_testing",
       "community": 0,
-      "norm_label": "proportionality assumption testing"
+      "norm_label": "proportionality assumption testing",
+      "id": "modele_semiparametryczne_ph_assumption_testing"
     },
     {
       "label": "Martingale Residuals (ASSESS option)",
@@ -2328,9 +2328,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_martingale_residuals",
       "community": 0,
-      "norm_label": "martingale residuals (assess option)"
+      "norm_label": "martingale residuals (assess option)",
+      "id": "modele_semiparametryczne_martingale_residuals"
     },
     {
       "label": "Schoenfeld Residuals (RESSCH option)",
@@ -2341,9 +2341,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_schoenfeld_residuals",
       "community": 0,
-      "norm_label": "schoenfeld residuals (ressch option)"
+      "norm_label": "schoenfeld residuals (ressch option)",
+      "id": "modele_semiparametryczne_schoenfeld_residuals"
     },
     {
       "label": "Stratified Cox Model (non-proportional hazards)",
@@ -2354,9 +2354,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_stratified_model",
       "community": 0,
-      "norm_label": "stratified cox model (non-proportional hazards)"
+      "norm_label": "stratified cox model (non-proportional hazards)",
+      "id": "modele_semiparametryczne_stratified_model"
     },
     {
       "label": "Time Interaction as Time-Varying Covariate",
@@ -2367,9 +2367,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_time_interaction",
       "community": 0,
-      "norm_label": "time interaction as time-varying covariate"
+      "norm_label": "time interaction as time-varying covariate",
+      "id": "modele_semiparametryczne_time_interaction"
     },
     {
       "label": "Left Truncation and Late Entry",
@@ -2380,9 +2380,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_left_truncation",
       "community": 0,
-      "norm_label": "left truncation and late entry"
+      "norm_label": "left truncation and late entry",
+      "id": "modele_semiparametryczne_left_truncation"
     },
     {
       "label": "Baseline Survival Function Estimation",
@@ -2393,9 +2393,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_baseline_survival",
       "community": 0,
-      "norm_label": "baseline survival function estimation"
+      "norm_label": "baseline survival function estimation",
+      "id": "modele_semiparametryczne_baseline_survival"
     },
     {
       "label": "Semiparametric Model Verification (LR, Wald, Score tests)",
@@ -2406,9 +2406,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_model_verification",
       "community": 0,
-      "norm_label": "semiparametric model verification (lr, wald, score tests)"
+      "norm_label": "semiparametric model verification (lr, wald, score tests)",
+      "id": "modele_semiparametryczne_model_verification"
     },
     {
       "label": "AIC/BIC Information Criteria for Survival Models",
@@ -2419,9 +2419,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_aic_bic",
       "community": 0,
-      "norm_label": "aic/bic information criteria for survival models"
+      "norm_label": "aic/bic information criteria for survival models",
+      "id": "modele_semiparametryczne_aic_bic"
     },
     {
       "label": "R-squared Analogue for Cox Model",
@@ -2432,9 +2432,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_r_squared_cox",
       "community": 0,
-      "norm_label": "r-squared analogue for cox model"
+      "norm_label": "r-squared analogue for cox model",
+      "id": "modele_semiparametryczne_r_squared_cox"
     },
     {
       "label": "Time-Dependent ROC Curve",
@@ -2445,9 +2445,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_time_dependent_roc",
       "community": 0,
-      "norm_label": "time-dependent roc curve"
+      "norm_label": "time-dependent roc curve",
+      "id": "modele_semiparametryczne_time_dependent_roc"
     },
     {
       "label": "Time-Dependent AUC",
@@ -2458,9 +2458,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_time_dependent_auc",
       "community": 0,
-      "norm_label": "time-dependent auc"
+      "norm_label": "time-dependent auc",
+      "id": "modele_semiparametryczne_time_dependent_auc"
     },
     {
       "label": "Recidivism Dataset (example dataset)",
@@ -2471,9 +2471,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_recidivism_data",
       "community": 0,
-      "norm_label": "recidivism dataset (example dataset)"
+      "norm_label": "recidivism dataset (example dataset)",
+      "id": "modele_semiparametryczne_recidivism_data"
     },
     {
       "label": "Heart Transplant Dataset (stan/transplant data)",
@@ -2484,9 +2484,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_heart_transplant_data",
       "community": 0,
-      "norm_label": "heart transplant dataset (stan/transplant data)"
+      "norm_label": "heart transplant dataset (stan/transplant data)",
+      "id": "modele_semiparametryczne_heart_transplant_data"
     },
     {
       "label": "Blood Data (example dataset)",
@@ -2497,9 +2497,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_blood_data",
       "community": 0,
-      "norm_label": "blood data (example dataset)"
+      "norm_label": "blood data (example dataset)",
+      "id": "modele_semiparametryczne_blood_data"
     },
     {
       "label": "Alcoholic Cirrhosis Dataset (example dataset)",
@@ -2510,9 +2510,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_alcoholic_cirrhosis_data",
       "community": 0,
-      "norm_label": "alcoholic cirrhosis dataset (example dataset)"
+      "norm_label": "alcoholic cirrhosis dataset (example dataset)",
+      "id": "modele_semiparametryczne_alcoholic_cirrhosis_data"
     },
     {
       "label": "Newton-Raphson Algorithm",
@@ -2523,9 +2523,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_newton_raphson",
       "community": 0,
-      "norm_label": "newton-raphson algorithm"
+      "norm_label": "newton-raphson algorithm",
+      "id": "modele_semiparametryczne_newton_raphson"
     },
     {
       "label": "Weibull Model (special case of PH)",
@@ -2536,9 +2536,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_weibull_model",
       "community": 0,
-      "norm_label": "weibull model (special case of ph)"
+      "norm_label": "weibull model (special case of ph)",
+      "id": "modele_semiparametryczne_weibull_model"
     },
     {
       "label": "Gompertz Model (special case of PH)",
@@ -2549,9 +2549,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_gompertz_model",
       "community": 0,
-      "norm_label": "gompertz model (special case of ph)"
+      "norm_label": "gompertz model (special case of ph)",
+      "id": "modele_semiparametryczne_gompertz_model"
     },
     {
       "label": "Exponential Model (special case of PH)",
@@ -2562,9 +2562,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_exponential_model",
       "community": 0,
-      "norm_label": "exponential model (special case of ph)"
+      "norm_label": "exponential model (special case of ph)",
+      "id": "modele_semiparametryczne_exponential_model"
     },
     {
       "label": "Right Censoring",
@@ -2575,9 +2575,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_right_censoring",
       "community": 0,
-      "norm_label": "right censoring"
+      "norm_label": "right censoring",
+      "id": "modele_semiparametryczne_right_censoring"
     },
     {
       "label": "Survival Analysis (Analiza czasu trwania)",
@@ -2588,9 +2588,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_survival_analysis",
       "community": 0,
-      "norm_label": "survival analysis (analiza czasu trwania)"
+      "norm_label": "survival analysis (analiza czasu trwania)",
+      "id": "modele_semiparametryczne_survival_analysis"
     },
     {
       "label": "Aneta Ptak-Chmielewska (author)",
@@ -2601,9 +2601,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_ptak_chmielewska",
       "community": 0,
-      "norm_label": "aneta ptak-chmielewska (author)"
+      "norm_label": "aneta ptak-chmielewska (author)",
+      "id": "modele_semiparametryczne_ptak_chmielewska"
     },
     {
       "label": "Rationale: Cox model makes no distributional assumption on survival time",
@@ -2614,9 +2614,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_rationale_no_distribution_assumption",
       "community": 0,
-      "norm_label": "rationale: cox model makes no distributional assumption on survival time"
+      "norm_label": "rationale: cox model makes no distributional assumption on survival time",
+      "id": "modele_semiparametryczne_rationale_no_distribution_assumption"
     },
     {
       "label": "Rationale: Partial likelihood estimators are robust to hazard function shape at cost of efficiency",
@@ -2627,9 +2627,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_rationale_partial_likelihood_robustness",
       "community": 0,
-      "norm_label": "rationale: partial likelihood estimators are robust to hazard function shape at cost of efficiency"
+      "norm_label": "rationale: partial likelihood estimators are robust to hazard function shape at cost of efficiency",
+      "id": "modele_semiparametryczne_rationale_partial_likelihood_robustness"
     },
     {
       "label": "Rationale: Stratified models cannot directly estimate nor test the effect of the stratification variable",
@@ -2640,9 +2640,9 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "id": "modele_semiparametryczne_rationale_stratification_limitation",
       "community": 0,
-      "norm_label": "rationale: stratified models cannot directly estimate nor test the effect of the stratification variable"
+      "norm_label": "rationale: stratified models cannot directly estimate nor test the effect of the stratification variable",
+      "id": "modele_semiparametryczne_rationale_stratification_limitation"
     }
   ],
   "links": [
@@ -3037,8 +3037,8 @@
       "source_file": "Ready_models/hf_aft_hazard_profiles.png",
       "source_location": null,
       "weight": 0.85,
-      "_src": "hf_aft_hazard_profiles_patient_c",
-      "_tgt": "hf_aft_hazard_profiles_hazard_function",
+      "_src": "hf_aft_hazard_profiles_hazard_function",
+      "_tgt": "hf_aft_hazard_profiles_patient_c",
       "source": "hf_aft_hazard_profiles_hazard_function",
       "target": "hf_aft_hazard_profiles_patient_c"
     },
@@ -3049,8 +3049,8 @@
       "source_file": "Ready_models/hf_aft_hazard_profiles.png",
       "source_location": null,
       "weight": 0.9,
-      "_src": "hf_aft_hazard_profiles_time_varying_hazard",
-      "_tgt": "hf_aft_hazard_profiles_hazard_function",
+      "_src": "hf_aft_hazard_profiles_hazard_function",
+      "_tgt": "hf_aft_hazard_profiles_time_varying_hazard",
       "source": "hf_aft_hazard_profiles_hazard_function",
       "target": "hf_aft_hazard_profiles_time_varying_hazard"
     },
@@ -3361,8 +3361,8 @@
       "source_file": "Ready_models/hf_censoring.png",
       "source_location": null,
       "weight": 1.0,
-      "_src": "hf_censoring_observation_time_distribution",
-      "_tgt": "hf_censoring_censored_group",
+      "_src": "hf_censoring_censored_group",
+      "_tgt": "hf_censoring_observation_time_distribution",
       "source": "hf_censoring_censored_group",
       "target": "hf_censoring_observation_time_distribution"
     },
@@ -3373,8 +3373,8 @@
       "source_file": "Ready_models/hf_censoring.png",
       "source_location": null,
       "weight": 1.0,
-      "_src": "hf_censoring_event_proportion_piechart",
-      "_tgt": "hf_censoring_censored_group",
+      "_src": "hf_censoring_censored_group",
+      "_tgt": "hf_censoring_event_proportion_piechart",
       "source": "hf_censoring_censored_group",
       "target": "hf_censoring_event_proportion_piechart"
     },
@@ -3409,8 +3409,8 @@
       "source_file": "Ready_models/hf_censoring.png",
       "source_location": null,
       "weight": 1.0,
-      "_src": "hf_censoring_observation_time_distribution",
-      "_tgt": "hf_censoring_event_group",
+      "_src": "hf_censoring_event_group",
+      "_tgt": "hf_censoring_observation_time_distribution",
       "source": "hf_censoring_event_group",
       "target": "hf_censoring_observation_time_distribution"
     },
@@ -3421,8 +3421,8 @@
       "source_file": "Ready_models/hf_censoring.png",
       "source_location": null,
       "weight": 1.0,
-      "_src": "hf_censoring_event_proportion_piechart",
-      "_tgt": "hf_censoring_event_group",
+      "_src": "hf_censoring_event_group",
+      "_tgt": "hf_censoring_event_proportion_piechart",
       "source": "hf_censoring_event_group",
       "target": "hf_censoring_event_proportion_piechart"
     },
@@ -3589,8 +3589,8 @@
       "source_file": "notatak.txt",
       "source_location": "line 2",
       "weight": 0.8,
-      "_src": "notatak_prob_plot",
-      "_tgt": "claudemd_analiza_parametryczna",
+      "_src": "claudemd_analiza_parametryczna",
+      "_tgt": "notatak_prob_plot",
       "source": "claudemd_analiza_parametryczna",
       "target": "notatak_prob_plot"
     },
@@ -3637,8 +3637,8 @@
       "source_file": "notatak.txt",
       "source_location": "line 1",
       "weight": 1.0,
-      "_src": "notatak_check_proportionality",
-      "_tgt": "claudemd_model_semiparametryczny",
+      "_src": "claudemd_model_semiparametryczny",
+      "_tgt": "notatak_check_proportionality",
       "source": "claudemd_model_semiparametryczny",
       "target": "notatak_check_proportionality"
     },
@@ -3661,8 +3661,8 @@
       "source_file": "CLAUDE.md",
       "source_location": "## Architecture",
       "weight": 0.9,
-      "_src": "claudemd_sas_script",
-      "_tgt": "claudemd_modele_nieparametryczne",
+      "_src": "claudemd_modele_nieparametryczne",
+      "_tgt": "claudemd_sas_script",
       "source": "claudemd_modele_nieparametryczne",
       "target": "claudemd_sas_script"
     },
@@ -3709,8 +3709,8 @@
       "source_file": "notatak.txt",
       "source_location": "line 4",
       "weight": 1.0,
-      "_src": "notatak_sas_to_python",
-      "_tgt": "claudemd_sas_script",
+      "_src": "claudemd_sas_script",
+      "_tgt": "notatak_sas_to_python",
       "source": "claudemd_sas_script",
       "target": "notatak_sas_to_python"
     },
@@ -3721,8 +3721,8 @@
       "source_file": "notatak.txt",
       "source_location": "line 4",
       "weight": 0.85,
-      "_src": "notatak_rationale_sas_reference",
-      "_tgt": "claudemd_sas_script",
+      "_src": "claudemd_sas_script",
+      "_tgt": "notatak_rationale_sas_reference",
       "source": "claudemd_sas_script",
       "target": "notatak_rationale_sas_reference"
     },
@@ -3733,8 +3733,8 @@
       "source_file": "notatak.txt",
       "source_location": "line 1",
       "weight": 0.9,
-      "_src": "notatak_check_proportionality",
-      "_tgt": "claudemd_cox_ph",
+      "_src": "claudemd_cox_ph",
+      "_tgt": "notatak_check_proportionality",
       "source": "claudemd_cox_ph",
       "target": "notatak_check_proportionality"
     },
@@ -3745,8 +3745,8 @@
       "source_file": "CLAUDE.md",
       "source_location": "## Architecture",
       "weight": 0.8,
-      "_src": "claudemd_proc_lifetest",
-      "_tgt": "claudemd_kaplan_meier",
+      "_src": "claudemd_kaplan_meier",
+      "_tgt": "claudemd_proc_lifetest",
       "source": "claudemd_kaplan_meier",
       "target": "claudemd_proc_lifetest"
     },
@@ -3757,8 +3757,8 @@
       "source_file": "notatak.txt",
       "source_location": "line 4",
       "weight": 1.0,
-      "_src": "notatak_rationale_sas_reference",
-      "_tgt": "notatak_sas_to_python",
+      "_src": "notatak_sas_to_python",
+      "_tgt": "notatak_rationale_sas_reference",
       "source": "notatak_sas_to_python",
       "target": "notatak_rationale_sas_reference"
     },
@@ -3889,8 +3889,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 6",
       "weight": 0.75,
-      "_src": "wprowadzenie_causality",
-      "_tgt": "wprowadzenie_survival_analysis",
+      "_src": "wprowadzenie_survival_analysis",
+      "_tgt": "wprowadzenie_causality",
       "source": "wprowadzenie_survival_analysis",
       "target": "wprowadzenie_causality"
     },
@@ -3913,8 +3913,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 5",
       "weight": 1.0,
-      "_src": "wprowadzenie_substantive_process",
-      "_tgt": "wprowadzenie_event_history_analysis",
+      "_src": "wprowadzenie_event_history_analysis",
+      "_tgt": "wprowadzenie_substantive_process",
       "source": "wprowadzenie_event_history_analysis",
       "target": "wprowadzenie_substantive_process"
     },
@@ -3985,8 +3985,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 13",
       "weight": 1.0,
-      "_src": "wprowadzenie_noninformative_censoring",
-      "_tgt": "wprowadzenie_censoring",
+      "_src": "wprowadzenie_censoring",
+      "_tgt": "wprowadzenie_noninformative_censoring",
       "source": "wprowadzenie_censoring",
       "target": "wprowadzenie_noninformative_censoring"
     },
@@ -3997,8 +3997,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 23",
       "weight": 1.0,
-      "_src": "wprowadzenie_myelomatosis_data",
-      "_tgt": "wprowadzenie_right_censoring",
+      "_src": "wprowadzenie_right_censoring",
+      "_tgt": "wprowadzenie_myelomatosis_data",
       "source": "wprowadzenie_right_censoring",
       "target": "wprowadzenie_myelomatosis_data"
     },
@@ -4021,8 +4021,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 13",
       "weight": 1.0,
-      "_src": "wprowadzenie_rationale_noninformative_assumption",
-      "_tgt": "wprowadzenie_noninformative_censoring",
+      "_src": "wprowadzenie_noninformative_censoring",
+      "_tgt": "wprowadzenie_rationale_noninformative_assumption",
       "source": "wprowadzenie_noninformative_censoring",
       "target": "wprowadzenie_rationale_noninformative_assumption"
     },
@@ -4033,8 +4033,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 8",
       "weight": 1.0,
-      "_src": "wprowadzenie_covariates_fixed",
-      "_tgt": "wprowadzenie_time_dependent_covariates",
+      "_src": "wprowadzenie_time_dependent_covariates",
+      "_tgt": "wprowadzenie_covariates_fixed",
       "source": "wprowadzenie_time_dependent_covariates",
       "target": "wprowadzenie_covariates_fixed"
     },
@@ -4081,8 +4081,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 20",
       "weight": 1.0,
-      "_src": "wprowadzenie_cumulative_hazard_function",
-      "_tgt": "wprowadzenie_survival_function",
+      "_src": "wprowadzenie_survival_function",
+      "_tgt": "wprowadzenie_cumulative_hazard_function",
       "source": "wprowadzenie_survival_function",
       "target": "wprowadzenie_cumulative_hazard_function"
     },
@@ -4129,8 +4129,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 24",
       "weight": 0.85,
-      "_src": "wprowadzenie_sas_lifetest",
-      "_tgt": "wprowadzenie_nonparametric_models",
+      "_src": "wprowadzenie_nonparametric_models",
+      "_tgt": "wprowadzenie_sas_lifetest",
       "source": "wprowadzenie_nonparametric_models",
       "target": "wprowadzenie_sas_lifetest"
     },
@@ -4189,8 +4189,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 24",
       "weight": 0.85,
-      "_src": "wprowadzenie_sas_lifereg",
-      "_tgt": "wprowadzenie_parametric_models",
+      "_src": "wprowadzenie_parametric_models",
+      "_tgt": "wprowadzenie_sas_lifereg",
       "source": "wprowadzenie_parametric_models",
       "target": "wprowadzenie_sas_lifereg"
     },
@@ -4213,8 +4213,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 24",
       "weight": 0.9,
-      "_src": "wprowadzenie_sas_phreg",
-      "_tgt": "wprowadzenie_cox_regression",
+      "_src": "wprowadzenie_cox_regression",
+      "_tgt": "wprowadzenie_sas_phreg",
       "source": "wprowadzenie_cox_regression",
       "target": "wprowadzenie_sas_phreg"
     },
@@ -4237,8 +4237,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 9-10",
       "weight": 1.0,
-      "_src": "wprowadzenie_event",
-      "_tgt": "wprowadzenie_episode",
+      "_src": "wprowadzenie_episode",
+      "_tgt": "wprowadzenie_event",
       "source": "wprowadzenie_episode",
       "target": "wprowadzenie_event"
     },
@@ -4261,8 +4261,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 8-9",
       "weight": 0.8,
-      "_src": "wprowadzenie_primary_covariates",
-      "_tgt": "wprowadzenie_event",
+      "_src": "wprowadzenie_event",
+      "_tgt": "wprowadzenie_primary_covariates",
       "source": "wprowadzenie_event",
       "target": "wprowadzenie_primary_covariates"
     },
@@ -4273,8 +4273,8 @@
       "source_file": "Prezentacje/wprowadzenie.pdf",
       "source_location": "slide 16-17",
       "weight": 0.8,
-      "_src": "wprowadzenie_rationale_longitudinal_preferred",
-      "_tgt": "wprowadzenie_longitudinal_study",
+      "_src": "wprowadzenie_longitudinal_study",
+      "_tgt": "wprowadzenie_rationale_longitudinal_preferred",
       "source": "wprowadzenie_longitudinal_study",
       "target": "wprowadzenie_rationale_longitudinal_preferred"
     },
@@ -4513,8 +4513,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 28",
       "weight": 0.8,
-      "_src": "modele_nieparametryczne_accelerated_failure_time",
-      "_tgt": "modele_nieparametryczne_nonparametric_models",
+      "_src": "modele_nieparametryczne_nonparametric_models",
+      "_tgt": "modele_nieparametryczne_accelerated_failure_time",
       "source": "modele_nieparametryczne_nonparametric_models",
       "target": "modele_nieparametryczne_accelerated_failure_time"
     },
@@ -4525,8 +4525,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 3-4",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_rationale_nonparam_for_preliminary",
-      "_tgt": "modele_nieparametryczne_nonparametric_models",
+      "_src": "modele_nieparametryczne_nonparametric_models",
+      "_tgt": "modele_nieparametryczne_rationale_nonparam_for_preliminary",
       "source": "modele_nieparametryczne_nonparametric_models",
       "target": "modele_nieparametryczne_rationale_nonparam_for_preliminary"
     },
@@ -4537,8 +4537,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 10",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_km_estimator_formula",
-      "_tgt": "modele_nieparametryczne_survival_function",
+      "_src": "modele_nieparametryczne_survival_function",
+      "_tgt": "modele_nieparametryczne_km_estimator_formula",
       "source": "modele_nieparametryczne_survival_function",
       "target": "modele_nieparametryczne_km_estimator_formula"
     },
@@ -4549,8 +4549,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 23",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_actuarial_method",
-      "_tgt": "modele_nieparametryczne_survival_function",
+      "_src": "modele_nieparametryczne_survival_function",
+      "_tgt": "modele_nieparametryczne_actuarial_method",
       "source": "modele_nieparametryczne_survival_function",
       "target": "modele_nieparametryczne_actuarial_method"
     },
@@ -4561,8 +4561,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 23",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_actuarial_method",
-      "_tgt": "modele_nieparametryczne_hazard_function",
+      "_src": "modele_nieparametryczne_hazard_function",
+      "_tgt": "modele_nieparametryczne_actuarial_method",
       "source": "modele_nieparametryczne_hazard_function",
       "target": "modele_nieparametryczne_actuarial_method"
     },
@@ -4573,8 +4573,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 31",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_kernel_smoothing",
-      "_tgt": "modele_nieparametryczne_hazard_function",
+      "_src": "modele_nieparametryczne_hazard_function",
+      "_tgt": "modele_nieparametryczne_kernel_smoothing",
       "source": "modele_nieparametryczne_hazard_function",
       "target": "modele_nieparametryczne_kernel_smoothing"
     },
@@ -4585,8 +4585,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 5",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_john_graunt",
-      "_tgt": "modele_nieparametryczne_life_tables",
+      "_src": "modele_nieparametryczne_life_tables",
+      "_tgt": "modele_nieparametryczne_john_graunt",
       "source": "modele_nieparametryczne_life_tables",
       "target": "modele_nieparametryczne_john_graunt"
     },
@@ -4597,8 +4597,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 5",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_slonimski_danielewicz",
-      "_tgt": "modele_nieparametryczne_life_tables",
+      "_src": "modele_nieparametryczne_life_tables",
+      "_tgt": "modele_nieparametryczne_slonimski_danielewicz",
       "source": "modele_nieparametryczne_life_tables",
       "target": "modele_nieparametryczne_slonimski_danielewicz"
     },
@@ -4741,8 +4741,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 9",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_proc_lifetest",
-      "_tgt": "modele_nieparametryczne_kaplan_meier_method",
+      "_src": "modele_nieparametryczne_kaplan_meier_method",
+      "_tgt": "modele_nieparametryczne_proc_lifetest",
       "source": "modele_nieparametryczne_kaplan_meier_method",
       "target": "modele_nieparametryczne_proc_lifetest"
     },
@@ -4777,8 +4777,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 9",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_proc_lifetest",
-      "_tgt": "modele_nieparametryczne_actuarial_method",
+      "_src": "modele_nieparametryczne_actuarial_method",
+      "_tgt": "modele_nieparametryczne_proc_lifetest",
       "source": "modele_nieparametryczne_actuarial_method",
       "target": "modele_nieparametryczne_proc_lifetest"
     },
@@ -4885,8 +4885,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 30",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_log_survival_plot",
-      "_tgt": "modele_nieparametryczne_cumulative_hazard_function",
+      "_src": "modele_nieparametryczne_cumulative_hazard_function",
+      "_tgt": "modele_nieparametryczne_log_survival_plot",
       "source": "modele_nieparametryczne_cumulative_hazard_function",
       "target": "modele_nieparametryczne_log_survival_plot"
     },
@@ -4969,8 +4969,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 18",
       "weight": 0.9,
-      "_src": "modele_nieparametryczne_fleming_harrington_test",
-      "_tgt": "modele_nieparametryczne_log_rank_test",
+      "_src": "modele_nieparametryczne_log_rank_test",
+      "_tgt": "modele_nieparametryczne_fleming_harrington_test",
       "source": "modele_nieparametryczne_log_rank_test",
       "target": "modele_nieparametryczne_fleming_harrington_test"
     },
@@ -4981,8 +4981,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 18",
       "weight": 0.9,
-      "_src": "modele_nieparametryczne_fleming_harrington_test",
-      "_tgt": "modele_nieparametryczne_wilcoxon_test",
+      "_src": "modele_nieparametryczne_wilcoxon_test",
+      "_tgt": "modele_nieparametryczne_fleming_harrington_test",
       "source": "modele_nieparametryczne_wilcoxon_test",
       "target": "modele_nieparametryczne_fleming_harrington_test"
     },
@@ -5017,8 +5017,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 28",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_rationale_aft_preselektion",
-      "_tgt": "modele_nieparametryczne_accelerated_failure_time",
+      "_src": "modele_nieparametryczne_accelerated_failure_time",
+      "_tgt": "modele_nieparametryczne_rationale_aft_preselektion",
       "source": "modele_nieparametryczne_accelerated_failure_time",
       "target": "modele_nieparametryczne_rationale_aft_preselektion"
     },
@@ -5029,8 +5029,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 30",
       "weight": 0.9,
-      "_src": "modele_nieparametryczne_log_log_survival_plot",
-      "_tgt": "modele_nieparametryczne_weibull_model",
+      "_src": "modele_nieparametryczne_weibull_model",
+      "_tgt": "modele_nieparametryczne_log_log_survival_plot",
       "source": "modele_nieparametryczne_weibull_model",
       "target": "modele_nieparametryczne_log_log_survival_plot"
     },
@@ -5041,8 +5041,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 30",
       "weight": 0.9,
-      "_src": "modele_nieparametryczne_log_survival_plot",
-      "_tgt": "modele_nieparametryczne_exponential_model",
+      "_src": "modele_nieparametryczne_exponential_model",
+      "_tgt": "modele_nieparametryczne_log_survival_plot",
       "source": "modele_nieparametryczne_exponential_model",
       "target": "modele_nieparametryczne_log_survival_plot"
     },
@@ -5053,8 +5053,8 @@
       "source_file": "Prezentacje/modele_nieparametryczne.pdf",
       "source_location": "slide 30",
       "weight": 1.0,
-      "_src": "modele_nieparametryczne_rationale_lls_for_weibull",
-      "_tgt": "modele_nieparametryczne_log_log_survival_plot",
+      "_src": "modele_nieparametryczne_log_log_survival_plot",
+      "_tgt": "modele_nieparametryczne_rationale_lls_for_weibull",
       "source": "modele_nieparametryczne_log_log_survival_plot",
       "target": "modele_nieparametryczne_rationale_lls_for_weibull"
     },
@@ -5125,8 +5125,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 2",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_proc_phreg",
-      "_tgt": "modele_semiparametryczne_cox_ph_model",
+      "_src": "modele_semiparametryczne_cox_ph_model",
+      "_tgt": "modele_semiparametryczne_proc_phreg",
       "source": "modele_semiparametryczne_cox_ph_model",
       "target": "modele_semiparametryczne_proc_phreg"
     },
@@ -5185,8 +5185,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 31",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_baseline_survival",
-      "_tgt": "modele_semiparametryczne_cox_ph_model",
+      "_src": "modele_semiparametryczne_cox_ph_model",
+      "_tgt": "modele_semiparametryczne_baseline_survival",
       "source": "modele_semiparametryczne_cox_ph_model",
       "target": "modele_semiparametryczne_baseline_survival"
     },
@@ -5197,8 +5197,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 33",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_model_verification",
-      "_tgt": "modele_semiparametryczne_cox_ph_model",
+      "_src": "modele_semiparametryczne_cox_ph_model",
+      "_tgt": "modele_semiparametryczne_model_verification",
       "source": "modele_semiparametryczne_cox_ph_model",
       "target": "modele_semiparametryczne_model_verification"
     },
@@ -5209,8 +5209,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 38",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_time_dependent_roc",
-      "_tgt": "modele_semiparametryczne_cox_ph_model",
+      "_src": "modele_semiparametryczne_cox_ph_model",
+      "_tgt": "modele_semiparametryczne_time_dependent_roc",
       "source": "modele_semiparametryczne_cox_ph_model",
       "target": "modele_semiparametryczne_time_dependent_roc"
     },
@@ -5221,8 +5221,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 2",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_rationale_no_distribution_assumption",
-      "_tgt": "modele_semiparametryczne_cox_ph_model",
+      "_src": "modele_semiparametryczne_cox_ph_model",
+      "_tgt": "modele_semiparametryczne_rationale_no_distribution_assumption",
       "source": "modele_semiparametryczne_cox_ph_model",
       "target": "modele_semiparametryczne_rationale_no_distribution_assumption"
     },
@@ -5245,8 +5245,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 1",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_survival_analysis",
-      "_tgt": "modele_semiparametryczne_semiparametric_model",
+      "_src": "modele_semiparametryczne_semiparametric_model",
+      "_tgt": "modele_semiparametryczne_survival_analysis",
       "source": "modele_semiparametryczne_semiparametric_model",
       "target": "modele_semiparametryczne_survival_analysis"
     },
@@ -5281,8 +5281,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 2",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_proc_phreg",
-      "_tgt": "modele_semiparametryczne_partial_likelihood",
+      "_src": "modele_semiparametryczne_partial_likelihood",
+      "_tgt": "modele_semiparametryczne_proc_phreg",
       "source": "modele_semiparametryczne_partial_likelihood",
       "target": "modele_semiparametryczne_proc_phreg"
     },
@@ -5293,8 +5293,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 27",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_stratified_model",
-      "_tgt": "modele_semiparametryczne_partial_likelihood",
+      "_src": "modele_semiparametryczne_partial_likelihood",
+      "_tgt": "modele_semiparametryczne_stratified_model",
       "source": "modele_semiparametryczne_partial_likelihood",
       "target": "modele_semiparametryczne_stratified_model"
     },
@@ -5305,8 +5305,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 34",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_r_squared_cox",
-      "_tgt": "modele_semiparametryczne_partial_likelihood",
+      "_src": "modele_semiparametryczne_partial_likelihood",
+      "_tgt": "modele_semiparametryczne_r_squared_cox",
       "source": "modele_semiparametryczne_partial_likelihood",
       "target": "modele_semiparametryczne_r_squared_cox"
     },
@@ -5317,8 +5317,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 6",
       "weight": 0.9,
-      "_src": "modele_semiparametryczne_right_censoring",
-      "_tgt": "modele_semiparametryczne_partial_likelihood",
+      "_src": "modele_semiparametryczne_partial_likelihood",
+      "_tgt": "modele_semiparametryczne_right_censoring",
       "source": "modele_semiparametryczne_partial_likelihood",
       "target": "modele_semiparametryczne_right_censoring"
     },
@@ -5329,8 +5329,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 5",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_rationale_partial_likelihood_robustness",
-      "_tgt": "modele_semiparametryczne_partial_likelihood",
+      "_src": "modele_semiparametryczne_partial_likelihood",
+      "_tgt": "modele_semiparametryczne_rationale_partial_likelihood_robustness",
       "source": "modele_semiparametryczne_partial_likelihood",
       "target": "modele_semiparametryczne_rationale_partial_likelihood_robustness"
     },
@@ -5509,8 +5509,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 25",
       "weight": 0.9,
-      "_src": "modele_semiparametryczne_time_interaction",
-      "_tgt": "modele_semiparametryczne_time_varying_covariates",
+      "_src": "modele_semiparametryczne_time_varying_covariates",
+      "_tgt": "modele_semiparametryczne_time_interaction",
       "source": "modele_semiparametryczne_time_varying_covariates",
       "target": "modele_semiparametryczne_time_interaction"
     },
@@ -5533,8 +5533,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slides 29-30",
       "weight": 0.8,
-      "_src": "modele_semiparametryczne_left_truncation",
-      "_tgt": "modele_semiparametryczne_counting_process",
+      "_src": "modele_semiparametryczne_counting_process",
+      "_tgt": "modele_semiparametryczne_left_truncation",
       "source": "modele_semiparametryczne_counting_process",
       "target": "modele_semiparametryczne_left_truncation"
     },
@@ -5545,8 +5545,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 24",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_schoenfeld_residuals",
-      "_tgt": "modele_semiparametryczne_counting_process",
+      "_src": "modele_semiparametryczne_counting_process",
+      "_tgt": "modele_semiparametryczne_schoenfeld_residuals",
       "source": "modele_semiparametryczne_counting_process",
       "target": "modele_semiparametryczne_schoenfeld_residuals"
     },
@@ -5605,8 +5605,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 27",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_rationale_stratification_limitation",
-      "_tgt": "modele_semiparametryczne_stratified_model",
+      "_src": "modele_semiparametryczne_stratified_model",
+      "_tgt": "modele_semiparametryczne_rationale_stratification_limitation",
       "source": "modele_semiparametryczne_stratified_model",
       "target": "modele_semiparametryczne_rationale_stratification_limitation"
     },
@@ -5689,8 +5689,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slides 7-40",
       "weight": 0.6,
-      "_src": "modele_semiparametryczne_heart_transplant_data",
-      "_tgt": "modele_semiparametryczne_recidivism_data",
+      "_src": "modele_semiparametryczne_recidivism_data",
+      "_tgt": "modele_semiparametryczne_heart_transplant_data",
       "source": "modele_semiparametryczne_recidivism_data",
       "target": "modele_semiparametryczne_heart_transplant_data"
     },
@@ -5701,8 +5701,8 @@
       "source_file": "Prezentacje/modele_semiparametryczne.pdf",
       "source_location": "slide 1",
       "weight": 1.0,
-      "_src": "modele_semiparametryczne_ptak_chmielewska",
-      "_tgt": "modele_semiparametryczne_survival_analysis",
+      "_src": "modele_semiparametryczne_survival_analysis",
+      "_tgt": "modele_semiparametryczne_ptak_chmielewska",
       "source": "modele_semiparametryczne_survival_analysis",
       "target": "modele_semiparametryczne_ptak_chmielewska"
     }

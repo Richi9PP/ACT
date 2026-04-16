@@ -14,7 +14,9 @@
       "Bash(pip list:*)",
       "Bash(pip install:*)",
       "Bash(python:*)",
-      "Bash(jupyter nbconvert:*)"
+      "Bash(jupyter nbconvert:*)",
+      "Bash(npx skills *)",
+      "Bash(python3 -c ' *)"
     ]
   }
 }

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "lifelines": {
+      "source": "tondevrel/scientific-agent-skills",
+      "sourceType": "github",
+      "computedHash": "c499f3b858c11d7a5595cf23c727bbf618e6807422e383967f0dc57019f5b8ce"
+    }
+  }
+}

@@ -4,12 +4,156 @@
   "graph": {},
   "nodes": [
     {
+      "label": "build_presentation.py",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L1",
+      "id": "build_presentation_py",
+      "community": 4,
+      "norm_label": "build_presentation.py"
+    },
+    {
+      "label": "bg()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L50",
+      "id": "build_presentation_bg",
+      "community": 4,
+      "norm_label": "bg()"
+    },
+    {
+      "label": "rule()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L58",
+      "id": "build_presentation_rule",
+      "community": 4,
+      "norm_label": "rule()"
+    },
+    {
+      "label": "txbox()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L71",
+      "id": "build_presentation_txbox",
+      "community": 4,
+      "norm_label": "txbox()"
+    },
+    {
+      "label": "heading()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L87",
+      "id": "build_presentation_heading",
+      "community": 4,
+      "norm_label": "heading()"
+    },
+    {
+      "label": "sub_heading()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L92",
+      "id": "build_presentation_sub_heading",
+      "community": 4,
+      "norm_label": "sub_heading()"
+    },
+    {
+      "label": "body_bullets()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L97",
+      "id": "build_presentation_body_bullets",
+      "community": 4,
+      "norm_label": "body_bullets()"
+    },
+    {
+      "label": "img()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L113",
+      "id": "build_presentation_img",
+      "community": 4,
+      "norm_label": "img()"
+    },
+    {
+      "label": "caption()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L120",
+      "id": "build_presentation_caption",
+      "community": 4,
+      "norm_label": "caption()"
+    },
+    {
+      "label": "badge()",
+      "file_type": "code",
+      "source_file": "build_presentation.py",
+      "source_location": "L125",
+      "id": "build_presentation_badge",
+      "community": 4,
+      "norm_label": "badge()"
+    },
+    {
+      "label": "Generates: ACT_prezentacja_parametryczna.pptx Slides (9):   0 \u2013 Tytu\u0142   1 \u2013 Prob",
+      "file_type": "rationale",
+      "source_file": "build_presentation.py",
+      "source_location": "L1",
+      "id": "build_presentation_rationale_1",
+      "community": 4,
+      "norm_label": "generates: act_prezentacja_parametryczna.pptx slides (9):   0 \u2013 tytu\u0142   1 \u2013 prob"
+    },
+    {
+      "label": "Fill slide background.",
+      "file_type": "rationale",
+      "source_file": "build_presentation.py",
+      "source_location": "L51",
+      "id": "build_presentation_rationale_51",
+      "community": 4,
+      "norm_label": "fill slide background."
+    },
+    {
+      "label": "Horizontal accent rule.",
+      "file_type": "rationale",
+      "source_file": "build_presentation.py",
+      "source_location": "L60",
+      "id": "build_presentation_rationale_60",
+      "community": 4,
+      "norm_label": "horizontal accent rule."
+    },
+    {
+      "label": "Filled rounded rectangle with text label.",
+      "file_type": "rationale",
+      "source_file": "build_presentation.py",
+      "source_location": "L127",
+      "id": "build_presentation_rationale_127",
+      "community": 4,
+      "norm_label": "filled rounded rectangle with text label."
+    },
+    {
+      "label": "fix_all.py",
+      "file_type": "code",
+      "source_file": "Ready_models\\fix_all.py",
+      "source_location": "L1",
+      "id": "ready_models_fix_all_py",
+      "community": 17,
+      "norm_label": "fix_all.py"
+    },
+    {
+      "label": "Patch all 4 cells in hf_analiza_parametryczna.ipynb:   cell 11 - profiles (add",
+      "file_type": "rationale",
+      "source_file": "Ready_models\\fix_all.py",
+      "source_location": "L1",
+      "id": "fix_all_rationale_1",
+      "community": 17,
+      "norm_label": "patch all 4 cells in hf_analiza_parametryczna.ipynb:   cell 11 - profiles (add"
+    },
+    {
       "label": "gen_notebooks.py",
       "file_type": "code",
       "source_file": "Ready_models\\gen_notebooks.py",
       "source_location": "L1",
       "id": "ready_models_gen_notebooks_py",
-      "community": 12,
+      "community": 13,
       "norm_label": "gen_notebooks.py"
     },
     {
@@ -18,7 +162,7 @@
       "source_file": "Ready_models\\gen_notebooks.py",
       "source_location": "L8",
       "id": "gen_notebooks_code",
-      "community": 12,
+      "community": 13,
       "norm_label": "code()"
     },
     {
@@ -27,7 +171,7 @@
       "source_file": "Ready_models\\gen_notebooks.py",
       "source_location": "L18",
       "id": "gen_notebooks_md",
-      "community": 12,
+      "community": 13,
       "norm_label": "md()"
     },
     {
@@ -36,7 +180,7 @@
       "source_file": "Ready_models\\gen_notebooks.py",
       "source_location": "L26",
       "id": "gen_notebooks_notebook",
-      "community": 12,
+      "community": 13,
       "norm_label": "notebook()"
     },
     {
@@ -45,7 +189,7 @@
       "source_file": "Ready_models\\gen_notebooks.py",
       "source_location": "L42",
       "id": "gen_notebooks_save",
-      "community": 12,
+      "community": 13,
       "norm_label": "save()"
     },
     {
@@ -53,7 +197,7 @@
       "file_type": "rationale",
       "source_file": "Ready_models\\gen_notebooks.py",
       "source_location": "L1",
-      "community": 12,
+      "community": 13,
       "norm_label": "generator trzech notebookow jupyter dla zbioru heart failure.",
       "id": "gen_notebooks_rationale_1"
     },
@@ -66,7 +210,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "hf aft model aic comparison chart",
       "id": "hf_aft_aic_comparison_chart"
     },
@@ -79,7 +223,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "weibull aft model (heart failure)",
       "id": "hf_aft_aic_comparison_weibull_aft"
     },
@@ -92,7 +236,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "log-logistic aft model (heart failure)",
       "id": "hf_aft_aic_comparison_loglogistic_aft"
     },
@@ -105,7 +249,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "log-normal aft model (heart failure)",
       "id": "hf_aft_aic_comparison_lognormal_aft"
     },
@@ -118,7 +262,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "aic model selection criterion",
       "id": "hf_aft_aic_comparison_aic_criterion"
     },
@@ -131,7 +275,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "heart failure clinical records dataset",
       "id": "hf_aft_aic_comparison_heart_failure_dataset"
     },
@@ -144,7 +288,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "parametric aft survival analysis",
       "id": "hf_aft_aic_comparison_aft_parametric_analysis"
     },
@@ -157,7 +301,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "hf aft hazard profiles figure",
       "id": "hf_aft_hazard_profiles_figure"
     },
@@ -170,7 +314,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "log-normal aft model",
       "id": "hf_aft_hazard_profiles_lognormal_aft_model"
     },
@@ -183,7 +327,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "hazard function h(t)",
       "id": "hf_aft_hazard_profiles_hazard_function"
     },
@@ -196,7 +340,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "patient a \u2013 low risk profile",
       "id": "hf_aft_hazard_profiles_patient_a"
     },
@@ -209,7 +353,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "patient b \u2013 medium risk profile",
       "id": "hf_aft_hazard_profiles_patient_b"
     },
@@ -222,7 +366,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "patient c \u2013 high risk profile",
       "id": "hf_aft_hazard_profiles_patient_c"
     },
@@ -235,7 +379,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "patient d \u2013 high risk profile",
       "id": "hf_aft_hazard_profiles_patient_d"
     },
@@ -248,7 +392,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "heart failure clinical records dataset",
       "id": "hf_aft_hazard_profiles_heart_failure_dataset"
     },
@@ -261,7 +405,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "patient risk stratification",
       "id": "hf_aft_hazard_profiles_risk_stratification"
     },
@@ -274,7 +418,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 7,
       "norm_label": "time-varying hazard pattern (log-normal shape)",
       "id": "hf_aft_hazard_profiles_time_varying_hazard"
     },
@@ -287,7 +431,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "hf aft survival profiles plot",
       "id": "hf_aft_survival_profiles_image"
     },
@@ -300,7 +444,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "log-normal aft model",
       "id": "hf_aft_survival_profiles_lognormal_aft_model"
     },
@@ -313,7 +457,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "survival function s(t)",
       "id": "hf_aft_survival_profiles_survival_function"
     },
@@ -326,7 +470,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "patient a \u2013 low risk profile",
       "id": "hf_aft_survival_profiles_patient_a"
     },
@@ -339,7 +483,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "patient b \u2013 medium risk profile",
       "id": "hf_aft_survival_profiles_patient_b"
     },
@@ -352,7 +496,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "patient c \u2013 high risk profile",
       "id": "hf_aft_survival_profiles_patient_c"
     },
@@ -365,7 +509,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "patient d \u2013 high risk profile",
       "id": "hf_aft_survival_profiles_patient_d"
     },
@@ -378,7 +522,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "heart failure clinical records dataset",
       "id": "hf_aft_survival_profiles_heart_failure_dataset"
     },
@@ -391,7 +535,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "risk stratification (low / medium / high)",
       "id": "hf_aft_survival_profiles_risk_stratification"
     },
@@ -404,7 +548,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 8,
       "norm_label": "follow-up time (days, 0\u2013280)",
       "id": "hf_aft_survival_profiles_time_days"
     },
@@ -417,7 +561,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "hf censoring analysis chart",
       "id": "hf_censoring_image"
     },
@@ -430,7 +574,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "heart failure clinical records dataset",
       "id": "hf_censoring_dataset"
     },
@@ -443,7 +587,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "censored observations (67.9%)",
       "id": "hf_censoring_censored_group"
     },
@@ -456,7 +600,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "death events / zgon (32.1%)",
       "id": "hf_censoring_event_group"
     },
@@ -469,7 +613,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "observation time distribution by status (histogram)",
       "id": "hf_censoring_observation_time_distribution"
     },
@@ -482,7 +626,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "event vs censoring proportion pie chart",
       "id": "hf_censoring_event_proportion_piechart"
     },
@@ -495,7 +639,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "right censoring (survival analysis concept)",
       "id": "concept_right_censoring"
     },
@@ -781,7 +925,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "censoring (obciecie)",
       "id": "wprowadzenie_censoring"
     },
@@ -794,7 +938,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "right censoring (obciecie prawostronne)",
       "id": "wprowadzenie_right_censoring"
     },
@@ -807,7 +951,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "left censoring (obciecie lewostronne)",
       "id": "wprowadzenie_left_censoring"
     },
@@ -820,7 +964,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "type i censoring (fixed censoring time)",
       "id": "wprowadzenie_type_i_censoring"
     },
@@ -833,7 +977,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "type ii censoring (event-number-dependent censoring time)",
       "id": "wprowadzenie_type_ii_censoring"
     },
@@ -846,7 +990,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "random censoring (uncontrolled censoring)",
       "id": "wprowadzenie_random_censoring"
     },
@@ -859,7 +1003,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "noninformative censoring (key assumption of survival analysis)",
       "id": "wprowadzenie_noninformative_censoring"
     },
@@ -885,7 +1029,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "hazard function (funkcja hazardu)",
       "id": "wprowadzenie_hazard_function"
     },
@@ -898,7 +1042,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "survival function (funkcja przezycia)",
       "id": "wprowadzenie_survival_function"
     },
@@ -911,7 +1055,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "cumulative distribution function (dystrybuanta)",
       "id": "wprowadzenie_cumulative_distribution_function"
     },
@@ -924,7 +1068,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "probability density function (funkcja gestosci)",
       "id": "wprowadzenie_probability_density_function"
     },
@@ -937,7 +1081,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 14,
+      "community": 15,
       "norm_label": "cumulative hazard function h(t)",
       "id": "wprowadzenie_cumulative_hazard_function"
     },
@@ -1002,7 +1146,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "nonparametric models (modele nieparametryczne)",
       "id": "wprowadzenie_nonparametric_models"
     },
@@ -1015,7 +1159,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "life tables (tablice trwania zycia)",
       "id": "wprowadzenie_life_tables"
     },
@@ -1028,7 +1172,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "kaplan-meier estimator",
       "id": "wprowadzenie_kaplan_meier"
     },
@@ -1041,7 +1185,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "parametric models (modele parametryczne)",
       "id": "wprowadzenie_parametric_models"
     },
@@ -1054,7 +1198,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "gompertz model",
       "id": "wprowadzenie_gompertz_model"
     },
@@ -1067,7 +1211,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "weibull model",
       "id": "wprowadzenie_weibull_model"
     },
@@ -1080,7 +1224,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "log-logistic model",
       "id": "wprowadzenie_log_logistic_model"
     },
@@ -1093,7 +1237,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "log-normal model",
       "id": "wprowadzenie_log_normal_model"
     },
@@ -1106,7 +1250,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "semiparametric models (modele semiparametryczne)",
       "id": "wprowadzenie_semiparametric_models"
     },
@@ -1119,7 +1263,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "cox proportional hazards regression",
       "id": "wprowadzenie_cox_regression"
     },
@@ -1158,7 +1302,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 15,
+      "community": 16,
       "norm_label": "episode (epizod)",
       "id": "wprowadzenie_episode"
     },
@@ -1171,7 +1315,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 15,
+      "community": 16,
       "norm_label": "career (kariera) - sequence of events",
       "id": "wprowadzenie_career"
     },
@@ -1184,7 +1328,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 15,
+      "community": 16,
       "norm_label": "event (zdarzenie) - state transition",
       "id": "wprowadzenie_event"
     },
@@ -1210,7 +1354,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 16,
+      "community": 18,
       "norm_label": "time-varying covariates (cechy zmienne)",
       "id": "wprowadzenie_covariates_variable"
     },
@@ -1223,7 +1367,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 15,
+      "community": 16,
       "norm_label": "primary covariates (cechy pierwotne) - state identification",
       "id": "wprowadzenie_primary_covariates"
     },
@@ -1236,7 +1380,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "secondary covariates (cechy wtorne) - unit differentiation",
       "id": "wprowadzenie_secondary_covariates"
     },
@@ -1262,7 +1406,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "cross-sectional study (badanie przekrojowe)",
       "id": "wprowadzenie_cross_sectional_study"
     },
@@ -1275,7 +1419,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 19,
+      "community": 21,
       "norm_label": "panel study (badanie panelowe)",
       "id": "wprowadzenie_panel_study"
     },
@@ -1288,7 +1432,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "sas procedures for survival analysis",
       "id": "wprowadzenie_sas_procedures"
     },
@@ -1301,7 +1445,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "sas proc lifetest",
       "id": "wprowadzenie_sas_lifetest"
     },
@@ -1314,7 +1458,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "sas proc lifereg",
       "id": "wprowadzenie_sas_lifereg"
     },
@@ -1327,7 +1471,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 4,
+      "community": 5,
       "norm_label": "sas proc phreg",
       "id": "wprowadzenie_sas_phreg"
     },
@@ -1340,7 +1484,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "myelomatosis data (example dataset)",
       "id": "wprowadzenie_myelomatosis_data"
     },
@@ -1392,7 +1536,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "cox & oakes (1984) - noninformative censoring reference",
       "id": "wprowadzenie_ref_cox_oakes1984"
     },
@@ -1444,7 +1588,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 8,
+      "community": 9,
       "norm_label": "rationale: noninformative censoring is required so that censored individuals represent all survivors at that time point",
       "id": "wprowadzenie_rationale_noninformative_assumption"
     },
@@ -1457,7 +1601,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "analiza czasu trwania \u2013 modele nieparametryczne (presentation)",
       "id": "modele_nieparametryczne_presentation"
     },
@@ -1470,7 +1614,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "aneta ptak-chmielewska",
       "id": "modele_nieparametryczne_aneta_ptak_chmielewska"
     },
@@ -1483,7 +1627,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "survival analysis (analiza czasu trwania / przezycia)",
       "id": "modele_nieparametryczne_survival_analysis"
     },
@@ -1496,7 +1640,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "single episode model (model pojedynczych epizodow)",
       "id": "modele_nieparametryczne_single_episode_model"
     },
@@ -1509,7 +1653,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "competing risks model (model ryzyka konkurencyjnego)",
       "id": "modele_nieparametryczne_competing_risks_model"
     },
@@ -1522,7 +1666,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "multi-episode model (model wielu epizodow)",
       "id": "modele_nieparametryczne_multi_episode_model"
     },
@@ -1587,7 +1731,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "life tables (tablice trwania zycia)",
       "id": "modele_nieparametryczne_life_tables"
     },
@@ -1600,7 +1744,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "john graunt (1662)",
       "id": "modele_nieparametryczne_john_graunt"
     },
@@ -1613,7 +1757,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "j. s\u0142onimski and a. b. danielewicz (polish life tables, xix century)",
       "id": "modele_nieparametryczne_slonimski_danielewicz"
     },
@@ -1639,7 +1783,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "raw (empirical) life tables (tablice surowe/empiryczne)",
       "id": "modele_nieparametryczne_raw_life_tables"
     },
@@ -1652,7 +1796,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "model (hypothetical) life tables (tablice modelowe/hipotetyczne)",
       "id": "modele_nieparametryczne_model_life_tables"
     },
@@ -1665,7 +1809,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "complete life tables (tablice pe\u0142ne \u2013 roczne przedzia\u0142y)",
       "id": "modele_nieparametryczne_complete_life_tables"
     },
@@ -1678,7 +1822,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "abridged life tables (tablice skrocone \u2013 5-letnie przedzia\u0142y)",
       "id": "modele_nieparametryczne_abridged_life_tables"
     },
@@ -1691,7 +1835,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "cohort life tables (tablice kohortowe)",
       "id": "modele_nieparametryczne_cohort_life_tables"
     },
@@ -1704,7 +1848,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "cross-sectional life tables (tablice przekrojowe)",
       "id": "modele_nieparametryczne_cross_sectional_life_tables"
     },
@@ -1717,7 +1861,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "cohort (kohorta) \u2013 group defined by a shared event",
       "id": "modele_nieparametryczne_cohort"
     },
@@ -1730,7 +1874,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 6,
       "norm_label": "birth cohort (kohorta urodzeniowa)",
       "id": "modele_nieparametryczne_birth_cohort"
     },
@@ -1938,7 +2082,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "myelomatosis data (example dataset)",
       "id": "modele_nieparametryczne_myelomatosis_data"
     },
@@ -1951,7 +2095,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "recidivism data (example dataset \u2013 recid)",
       "id": "modele_nieparametryczne_recidivism_data"
     },
@@ -1964,7 +2108,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "transplant programme data (aggregated data example)",
       "id": "modele_nieparametryczne_transplant_data"
     },
@@ -2198,7 +2342,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "tied data handling",
       "id": "modele_semiparametryczne_tied_data"
     },
@@ -2211,7 +2355,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "breslow approximation for tied events",
       "id": "modele_semiparametryczne_breslow_method"
     },
@@ -2224,7 +2368,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "efron approximation for tied events",
       "id": "modele_semiparametryczne_efron_method"
     },
@@ -2237,7 +2381,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "exact method for tied events (ties=exact)",
       "id": "modele_semiparametryczne_exact_method"
     },
@@ -2250,7 +2394,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "discrete time method (ties=discrete)",
       "id": "modele_semiparametryczne_discrete_method"
     },
@@ -2263,7 +2407,7 @@
       "captured_at": null,
       "author": "Aneta Ptak-Chmielewska",
       "contributor": null,
-      "community": 13,
+      "community": 14,
       "norm_label": "proportional odds model (discrete time)",
       "id": "modele_semiparametryczne_proportional_odds_model"
     },
@@ -2646,6 +2790,210 @@
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_bg",
+      "source": "build_presentation_py",
+      "target": "build_presentation_bg",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_rule",
+      "source": "build_presentation_py",
+      "target": "build_presentation_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_txbox",
+      "source": "build_presentation_py",
+      "target": "build_presentation_txbox",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L87",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_heading",
+      "source": "build_presentation_py",
+      "target": "build_presentation_heading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_sub_heading",
+      "source": "build_presentation_py",
+      "target": "build_presentation_sub_heading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L97",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_body_bullets",
+      "source": "build_presentation_py",
+      "target": "build_presentation_body_bullets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L113",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_img",
+      "source": "build_presentation_py",
+      "target": "build_presentation_img",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L120",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_caption",
+      "source": "build_presentation_py",
+      "target": "build_presentation_caption",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L125",
+      "weight": 1.0,
+      "_src": "build_presentation_py",
+      "_tgt": "build_presentation_badge",
+      "source": "build_presentation_py",
+      "target": "build_presentation_badge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "build_presentation_rationale_1",
+      "_tgt": "build_presentation_py",
+      "source": "build_presentation_py",
+      "target": "build_presentation_rationale_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_src": "build_presentation_rationale_51",
+      "_tgt": "build_presentation_bg",
+      "source": "build_presentation_bg",
+      "target": "build_presentation_rationale_51",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_src": "build_presentation_rationale_60",
+      "_tgt": "build_presentation_rule",
+      "source": "build_presentation_rule",
+      "target": "build_presentation_rationale_60",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L88",
+      "weight": 1.0,
+      "_src": "build_presentation_heading",
+      "_tgt": "build_presentation_txbox",
+      "source": "build_presentation_txbox",
+      "target": "build_presentation_heading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L93",
+      "weight": 1.0,
+      "_src": "build_presentation_sub_heading",
+      "_tgt": "build_presentation_txbox",
+      "source": "build_presentation_txbox",
+      "target": "build_presentation_sub_heading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L121",
+      "weight": 1.0,
+      "_src": "build_presentation_caption",
+      "_tgt": "build_presentation_txbox",
+      "source": "build_presentation_txbox",
+      "target": "build_presentation_caption",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "build_presentation.py",
+      "source_location": "L127",
+      "weight": 1.0,
+      "_src": "build_presentation_rationale_127",
+      "_tgt": "build_presentation_badge",
+      "source": "build_presentation_badge",
+      "target": "build_presentation_rationale_127",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "Ready_models\\fix_all.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "fix_all_rationale_1",
+      "_tgt": "ready_models_fix_all_py",
+      "source": "ready_models_fix_all_py",
+      "target": "fix_all_rationale_1",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",

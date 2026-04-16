@@ -11,5 +11,17 @@
         ]
       }
     ]
+  },
+  "graphifyEnabled": true,
+  "graphifyThreshold": 3000,
+  "mcpServers": {
+    "vault": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "obsidian-mcp",
+        "C:\\Users\\patry\\Desktop\\Programs\\Wiedza_obsidian"
+      ]
+    }
   }
 }

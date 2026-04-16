@@ -16,7 +16,14 @@
       "Bash(python:*)",
       "Bash(jupyter nbconvert:*)",
       "Bash(npx skills *)",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "Bash(.venv/Scripts/python -c \"import pptx; print\\('pptx ok', pptx.__version__\\)\")",
+      "Bash(.venv/Scripts/pip install *)",
+      "Bash(.venv/Scripts/python build_presentation.py)",
+      "Bash(.venv/Scripts/python update_nb.py)",
+      "Bash(npx --yes npm-search mcp obsidian)",
+      "Bash(npm search *)",
+      "Bash(npm view *)"
     ]
   }
 }

@@ -1,4 +1,0 @@
-nie zapomniec sprawdiz proporcjonalnosci w semiparametrycznym
-parametryczne - prob plot do dodania, sprawdzenie, zbye prob plot pokazywal dla logarytmu funkcji pzrzycia
-
-przenalizowac kod w SAS ktory jest pelniejszy, zeby przerobil to na python

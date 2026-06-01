@@ -1,0 +1,20 @@
+# Agent / tooling cruft (remove from tracking with:
+#   git rm -r --cached .claude .agents CLAUDE.md ".graphifyignore" "Notatki robocze" Prezentacje)
+CLAUDE.md
+.claude/
+.agents/
+.graphifyignore
+graphify-out/
+skills-lock.json
+
+# Working notes (drafts) and third-party lecture slides — keep out of a public repo
+Notatki robocze/
+Prezentacje/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
